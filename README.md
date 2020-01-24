@@ -6,5 +6,5 @@
 
 Nick Katsivelos' section of Senior Project in Digital Media Repository, Integrated Digital Media, NYU Tandon School of Engineering. Spring 2020.
 
-Visit the gitbook instead, it is a much nicer reading experience: https://app.gitbook.com/@nick-katsivelos/s/senior-project-sp20](https://app.gitbook.com/@nick-katsivelos/s/senior-project-sp20)
+Visit the gitbook instead, it is a much nicer reading experience: [https://nick-katsivelos.gitbook.io/senior-project-sp20](https://nick-katsivelos.gitbook.io/senior-project-sp20)
 
