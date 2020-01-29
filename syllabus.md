@@ -24,12 +24,12 @@ The course website is the official source for all dates and assignments. This sy
 **Course Communication:** [http://idmspsp20.slack.com](http://idmspsp20.slack.com)  
 Slack will be our primary communication tool. Join with nyu.edu email address.
 
-This semester there are four different sections of senior project. Please be aware that you may be **switched into another section** depending on your area of interest and whether or not you elect to have a team senior project. Teams will be placed in the same section if at all possible. All of the sections are being held at the same time so the switch will not affect your schedule at all. We will try to balance the sections according to the following but we may not be able to accommodate all students depending on various factors. If you are working on the following types of projects, there is a strong possibility that you will be placed in that instructor's section. The four senior project faculty will collectively decide and inform specific students. All of the changes will be submitted by the faculty. Students should not seek to switch sections on their own.
+This semester there are four different sections of senior project. Please be aware that you may be **switched into another section** depending on your area of interest and whether or not you elect to have a team senior project. Teams will be placed in the same section if at all possible. All of the sections are being held at the same time so the switch will not affect your schedule at all. We will try to balance the sections according to the following but we may not be able to accommodate all students depending on various factors. If you are working on the following types of projects, there is a strong possibility that you will be placed in that instructor's section:
 
 * design, photo, or audio \(Duff\)
-* XR \(VR, AR, MR\), design, photo, or printmaking \(Gannis\)
-* creative technology of entrepreneurship \(Katsivelos\)
-* physical computing, fabrication, or sculpture \(Nathanson\)
+* XR / AR / VR \(Gannis\)
+* creative technology / entrepreneurship \(Katsivelos\)
+* physical computing / fabrication / sculpture \(Nathanson\)
 
 ## Welcome to Senior Project In Digital Media!
 
