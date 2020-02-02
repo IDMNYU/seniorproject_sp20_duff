@@ -11,7 +11,7 @@
 
 ## Class
 
-**Announcements:** 
+### **Announcements:** 
 
 If your schedule permits, I would highly recommend you take the following humanities elective to help with your research for your senior project.   
   
@@ -20,16 +20,13 @@ This course provides an overview of ethnographic and qualitative methods for con
 
 **Students** can get free headshots from the [NYU Photo Bureau](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/university-relationsandpublicaffairs/public-affairs/photo-bureau.html). I highly recommend that you take advantage of it for your portfolio website and LinkedIn profile. It's a very popular service. You just need to book it \(sometimes weeks\) in advance. The NYU photo bureau is currently moving locations. So they're not taking any appointments until February.
 
-[**Syllabus**](../syllabus.md) **Review Q&A**
-
-* Discuss course & learning objectives.
-* Discuss calendar and specifically: All dates and assignments are subject to change at the discretion of the professor.
-* Reading the weekly schedule.
-* NOTE: Due on date listed.
-
-**Class discussion of reading**
-
-[**Pecha kucha**](../pre-work/pecha_kucha.md) **presentation and/or revisions \(if applicable\)**
+* [**Syllabus**](../syllabus.md) **Review Q&A**
+  * Discuss course & learning objectives.
+  * Discuss calendar and specifically: All dates and assignments are subject to change at the discretion of the professor.
+  * Reading the weekly schedule.
+  * NOTE: Due on date listed.
+* **Class discussion of reading**
+* \*\*\*\*[**Pecha kucha**](../pre-work/pecha_kucha.md) **presentation and/or revisions \(if applicable\)**
 
 
 
