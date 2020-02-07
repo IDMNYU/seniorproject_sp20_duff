@@ -3,7 +3,7 @@
 ## Deliverables \(DUE ON DATE LISTED\)
 
 * Iterate [research and design](../project_plan/) of your project.
-* Document your process and project on your [process website](../pre-work/website.md).
+* Document your process and project, which includes your [research and design](../project_plan/), on your [process website](../pre-work/website.md).
 
 ## Class
 
