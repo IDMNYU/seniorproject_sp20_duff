@@ -3,7 +3,7 @@
 ## Deliverables \(DUE ON DATE LISTED\)
 
 * Create and/or iterate [prototype\(s\)](../project_plan/) of your project.
-* [Document](../pre-work/website.md) your process which includes the [prototype\(s\)](../project_plan/) of your project.
+* [Document](../pre-work/website.md) your process and project.
 
 ## Class
 
