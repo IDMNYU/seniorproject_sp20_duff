@@ -17,16 +17,3 @@
 * Take notes for each other's presentations
 * Provide moral support and encouragement
 
-**Accountability Partners:**
-
-* Bonnie and Rachel
-* Caleb and Kevin
-* Christy and Lauren
-* Emily and Jimmy
-* Greta and Ellie
-* Max and Jessica
-* Oliwia and Val
-* Shannon and Amy
-
-
-
