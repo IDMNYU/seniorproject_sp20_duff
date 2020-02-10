@@ -8,6 +8,7 @@
 
 ## Class
 
+* Guest: Ife Lawal
 * Class discussion of reading and [letters from a previous cohort](https://drive.google.com/open?id=1Fr1cw72xTrvwSBTM6Bh9OU2XepJ1YNOk)
 * Select [accountability partners](../assignments/accountability_partner.md)
 * Group critique: [research and design](../project_plan/)
