@@ -1,6 +1,6 @@
 # Recommended Resources
 
-![Everyone Starts at Zero](http://teaching.polishedsolid.com/images/gettoworkbook_at_zero.png) 
+![Everyone Starts at Zero](http://teaching.polishedsolid.com/images/gettoworkbook_at_zero.png)
 
 _Illustration by Jolby from gettoworkbook_
 
@@ -139,69 +139,67 @@ _Time Warrior_
 * [The Mac is Not a Typewriter](http://www.amazon.com/Mac-Not-Typewriter-2nd/dp/0201782634/ref=sr_1_1?ie=UTF8&qid=1422276493&sr=8-1&keywords=the+mac+is+not+a+typewriter) by Robin Williams
 
 ## Career Preparation
+
 _NYU Resources_
-<ul>
-<li><a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center</a></li>
-<li><a href="http://entrepreneur.nyu.edu/" target="_blank">Leslie Elab</a></li>
-</ul>
-_Miscellaneous_
-<ul>
-<li><a href="http://www.aiga.org/professional-resources" target="_blank">AIGA Professional Resources</a></li>
-<li><a href="http://www.pewresearch.org/" target="_blank">Pew Resarch</a></li>
-<li><a href="http://www.aiga.org/get-a-design-job" target="_blank">Get A Design Job!</a> by RitaSue Siegel</li>
-<li><a href="https://www.amazon.com/Graphic-Designer-without-Losing-Expanded/dp/1568989830/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1516586778&amp;sr=1-1-spell" target="_blank">How to Be a Graphic Designer without Losing Your Soul</a> by Adrian Shaughnessy </li>
-</ul>
-_Job Boards_
-<ul>
-<li><a href="http://glassdoor.com" target="_blank">Glass Door</a></li>
-<li><a href="http://www.wordsofmouth.org/" target="_blank">Words of Mouth</a></li>
-<li><a href="https://uncubed.com" target="_blank">Uncubed</a></li>
-<li><a href="https://weworkremotely.com" target="_blank">We Work Remotely</a> </li>
-<li><a href="http://designjobs.aiga.org" target="_blank">AIGA Design Jobs</a></li>
-<li><a href="http://www.creativeapplications.net/job-board" target="_blank">Creative Applications</a></li>
-<li><a href="http://www.krop.com" target="_blank">Krop</a></li>
-<li><a href="http://www.coroflot.com/public/jobs_browse.asp" target="_blank">Coroflot</a></li>
-<li><a href="http://www.creativehotlist.com" target="_blank">Creative Hotlist</a></li>
-</ul>
-_Salary Negotiation_
-<ul>
-<li><a href="https://www.amazon.com/Fearless-Negotiating-Michael-C-Donaldson/dp/1259584801/ref=sr_1_1_twi_pap_2?ie=UTF8&amp;qid=1516674344&amp;sr=8-1&amp;keywords=fearless+negotiating" target="_blank">Fealess Negotiating</a> by Michael C. Donaldson</li>
-<li><a href="http://www.amazon.com/Lean-Graduates-Sheryl-Sandberg/dp/0385353677/ref=sr_1_1?ie=UTF8&amp;qid=1442940600&amp;sr=8-1&amp;keywords=lean+in+for+graduates" target="_blank">Lean In for Graduates</a> by Sheryl Sanders </li>
-<li><a href="https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X/ref=sr_1_4?s=books&amp;ie=UTF8&amp;qid=1516674402&amp;sr=1-4&amp;keywords=influence" target="_blank">Influence: The Psychology of Persuasion</a> by Robert B. Cialdini</li>
-<li><a href="https://www.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B003WEAI4E/ref=sr_1_3?s=books&amp;ie=UTF8&amp;qid=1516674757&amp;sr=1-3&amp;keywords=dale+carnegie" target="_blank">How To Win Friends &amp; Influence People</a> by Dale Carnegie</li>
-</ul>
-_Freelance_
-<ul>
-<li><a href="https://www.amazon.com/Business-Side-Creativity-Comprehensive-Communications/dp/0393734005/ref=la_B00IMVP96O_1_1?s=books&amp;ie=UTF8&amp;qid=1516586595&amp;sr=1-1" target="_blank">The Business Side of Creativity: The Complete Guide to Running a Small Graphics Design or Communications Business</a> by Cameron Foote </li>
-<li><a href="http://www.docracy.com/doc/showalluserdocs?sortBy=4&amp;page=1&amp;userId=7435" target="_blank">Docracy</a><ul>
-<li><strong><a href="http://stuffandnonsense.co.uk/projects/contract-killer" target="_blank">Andy Clarke&apos;s Contract Killer 3</a></strong></li>
-<li><a href="https://www.docracy.com/7079/development-service-contract" target="_blank">Development Service Contract</a></li>
-</ul>
-</li>
-<li><a href="http://www.aiga.org/standard-agreement/" target="_blank">AIGA Standard Service Agreement</a></li>
-<li><a href="http://www.smashingmagazine.com/2013/04/03/legal-guide-contract-samples-for-designers/" target="_blank">smashing magazine: The Collective Legal Guide for Designers</a></li>
-<li><a href="http://www.smashingmagazine.com/2010/04/09/dealing-with-clients-who-refuse-to-pay" target="_blank">Dealing with Clients who refuse to pay</a></li>
-<li><a href="http://csskillswitch.com" target="_blank">CSS Kill Switch</a></li>
-<li><a href="https://www.amazon.com/Free-Agent-Nation-Working-Yourself/dp/0446678791/ref=asap_bc?ie=UTF8" target="_blank">Free Agent Nation: The Future of Working for Yourself</a>by Daniel Pink </li>
-</ul>
-_Entrepreneurship_
-<ul>
-<li><a href="https://www.amazon.com/E-Myth-Revisited-Small-Businesses-About/dp/0887307280/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1516833277&amp;sr=8-1" target="_blank">The E-Myth Revisited</a> by Michael Gerber</li>
-<li><a href="https://www.amazon.com/Rework-Jason-Fried/dp/0307463745/ref=sr_1_1_twi_har_2?s=books&amp;ie=UTF8&amp;qid=1516586631&amp;sr=1-1&amp;keywords=rework" target="_blank">Rework</a> by Jason Fried and David Heinemeier Hansson.</li>
-</ul>
-_Networking_
-<ul>
-<li><a href="https://www.amazon.com/Never-Eat-Alone-Expanded-Updated/dp/B00H6JBFOS/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1516833304&amp;sr=1-1&amp;keywords=never+eat+alone" target="_blank">Never Eat Alone</a> by Keith Ferrazzi </li>
-</ul>
-_Branding_
-<ul>
-<li><a href="https://www.amazon.com/Zag-Number-Strategy-High-Performance-Brands/dp/0321426770/ref=sr_1_3?ie=UTF8&amp;qid=1516833998&amp;sr=8-3&amp;keywords=marty+neumeier" target="_blank">Zag: The Number One Strategy of High-Performance Brands</a> by Marty Neumeier</li>
-</ul>
-_Crowdsource Funding_
-<ul>
-<li><a href="http://kickstarter.com" target="_blank">Kickstarter</a></li>
-<li><a href="http://www.indiegogo.com" target="_blank">Indiegogo</a></li>
-<li><a href="http://pledgemusic.com" target="_blank">PledgeMusic</a></li>
-<li><a href="http://gofundme.com" target="_blank">GoFundMe</a></li>
-</ul>
+
+* [Wasserman Center](https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html)
+* [Leslie Elab](http://entrepreneur.nyu.edu/)
+
+ _Miscellaneous_
+
+* [AIGA Professional Resources](http://www.aiga.org/professional-resources)
+* [Pew Resarch](http://www.pewresearch.org/)
+* [Get A Design Job!](http://www.aiga.org/get-a-design-job) by RitaSue Siegel
+* [How to Be a Graphic Designer without Losing Your Soul](https://www.amazon.com/Graphic-Designer-without-Losing-Expanded/dp/1568989830/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1516586778&sr=1-1-spell) by Adrian Shaughnessy
+
+ _Job Boards_
+
+* [Glass Door](http://glassdoor.com)
+* [Words of Mouth](http://www.wordsofmouth.org/)
+* [Uncubed](https://uncubed.com)
+* [We Work Remotely](https://weworkremotely.com)
+* [AIGA Design Jobs](http://designjobs.aiga.org)
+* [Creative Applications](http://www.creativeapplications.net/job-board)
+* [Krop](http://www.krop.com)
+* [Coroflot](http://www.coroflot.com/public/jobs_browse.asp)
+* [Creative Hotlist](http://www.creativehotlist.com)
+
+ _Salary Negotiation_
+
+* [Fearless Negotiating](https://www.amazon.com/Fearless-Negotiating-Michael-C-Donaldson/dp/1259584801/ref=sr_1_1_twi_pap_2?ie=UTF8&qid=1516674344&sr=8-1&keywords=fearless+negotiating) by Michael C. Donaldson
+* [Lean In for Graduates](http://www.amazon.com/Lean-Graduates-Sheryl-Sandberg/dp/0385353677/ref=sr_1_1?ie=UTF8&qid=1442940600&sr=8-1&keywords=lean+in+for+graduates) by Sheryl Sanders
+* [Influence: The Psychology of Persuasion](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X/ref=sr_1_4?s=books&ie=UTF8&qid=1516674402&sr=1-4&keywords=influence) by Robert B. Cialdini
+* [How To Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B003WEAI4E/ref=sr_1_3?s=books&ie=UTF8&qid=1516674757&sr=1-3&keywords=dale+carnegie) by Dale Carnegie
+
+ _Freelance_
+
+* [The Business Side of Creativity: The Complete Guide to Running a Small Graphics Design or Communications Business](https://www.amazon.com/Business-Side-Creativity-Comprehensive-Communications/dp/0393734005/ref=la_B00IMVP96O_1_1?s=books&ie=UTF8&qid=1516586595&sr=1-1) by Cameron Foote
+* [Docracy](http://www.docracy.com/doc/showalluserdocs?sortBy=4&page=1&userId=7435)
+  * [**Andy Clarke's Contract Killer 3**](http://stuffandnonsense.co.uk/projects/contract-killer)
+  * [Development Service Contract](https://www.docracy.com/7079/development-service-contract)
+* [AIGA Standard Service Agreement](http://www.aiga.org/standard-agreement/)
+* [smashing magazine: The Collective Legal Guide for Designers](http://www.smashingmagazine.com/2013/04/03/legal-guide-contract-samples-for-designers/)
+* [Dealing with Clients who refuse to pay](http://www.smashingmagazine.com/2010/04/09/dealing-with-clients-who-refuse-to-pay)
+* [CSS Kill Switch](http://csskillswitch.com)
+* [Free Agent Nation: The Future of Working for Yourself](https://www.amazon.com/Free-Agent-Nation-Working-Yourself/dp/0446678791/ref=asap_bc?ie=UTF8)by Daniel Pink
+
+ \_Entrepreneurship\_
+
+* [The E-Myth Revisited](https://www.amazon.com/E-Myth-Revisited-Small-Businesses-About/dp/0887307280/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1516833277&sr=8-1) by Michael Gerber
+* [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745/ref=sr_1_1_twi_har_2?s=books&ie=UTF8&qid=1516586631&sr=1-1&keywords=rework) by Jason Fried and David Heinemeier Hansson.
+
+ \_Networking\_
+
+* [Never Eat Alone](https://www.amazon.com/Never-Eat-Alone-Expanded-Updated/dp/B00H6JBFOS/ref=sr_1_1?s=books&ie=UTF8&qid=1516833304&sr=1-1&keywords=never+eat+alone) by Keith Ferrazzi
+
+ \_Branding\_
+
+* [Zag: The Number One Strategy of High-Performance Brands](https://www.amazon.com/Zag-Number-Strategy-High-Performance-Brands/dp/0321426770/ref=sr_1_3?ie=UTF8&qid=1516833998&sr=8-3&keywords=marty+neumeier) by Marty Neumeier
+
+ \_Crowdsource Funding\_
+
+* [Kickstarter](http://kickstarter.com)
+* [Indiegogo](http://www.indiegogo.com)
+* [PledgeMusic](http://pledgemusic.com)
+* [GoFundMe](http://gofundme.com)
 
