@@ -180,23 +180,22 @@ _NYU Resources_
 * [AIGA Standard Service Agreement](http://www.aiga.org/standard-agreement/)
 * [smashing magazine: The Collective Legal Guide for Designers](http://www.smashingmagazine.com/2013/04/03/legal-guide-contract-samples-for-designers/)
 * [Dealing with Clients who refuse to pay](http://www.smashingmagazine.com/2010/04/09/dealing-with-clients-who-refuse-to-pay)
-* [CSS Kill Switch](http://csskillswitch.com)
-* [Free Agent Nation: The Future of Working for Yourself](https://www.amazon.com/Free-Agent-Nation-Working-Yourself/dp/0446678791/ref=asap_bc?ie=UTF8)by Daniel Pink
+* [Free Agent Nation: The Future of Working for Yourself](https://www.amazon.com/Free-Agent-Nation-Working-Yourself/dp/0446678791/ref=asap_bc?ie=UTF8) by Daniel Pink
 
- \_Entrepreneurship\_
+ _Entrepreneurship_
 
 * [The E-Myth Revisited](https://www.amazon.com/E-Myth-Revisited-Small-Businesses-About/dp/0887307280/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1516833277&sr=8-1) by Michael Gerber
 * [Rework](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745/ref=sr_1_1_twi_har_2?s=books&ie=UTF8&qid=1516586631&sr=1-1&keywords=rework) by Jason Fried and David Heinemeier Hansson.
 
- \_Networking\_
+ _Networking_
 
 * [Never Eat Alone](https://www.amazon.com/Never-Eat-Alone-Expanded-Updated/dp/B00H6JBFOS/ref=sr_1_1?s=books&ie=UTF8&qid=1516833304&sr=1-1&keywords=never+eat+alone) by Keith Ferrazzi
 
- \_Branding\_
+ _Branding_
 
 * [Zag: The Number One Strategy of High-Performance Brands](https://www.amazon.com/Zag-Number-Strategy-High-Performance-Brands/dp/0321426770/ref=sr_1_3?ie=UTF8&qid=1516833998&sr=8-3&keywords=marty+neumeier) by Marty Neumeier
 
- \_Crowdsource Funding\_
+ _Crowdsource Funding_
 
 * [Kickstarter](http://kickstarter.com)
 * [Indiegogo](http://www.indiegogo.com)
