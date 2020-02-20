@@ -148,7 +148,7 @@ _NYU Resources_
  _Miscellaneous_
 
 * [AIGA Professional Resources](http://www.aiga.org/professional-resources)
-* [Pew Resarch](http://www.pewresearch.org/)
+* [Pew Research](http://www.pewresearch.org/)
 * [Get A Design Job!](http://www.aiga.org/get-a-design-job) by RitaSue Siegel
 * [How to Be a Graphic Designer without Losing Your Soul](https://www.amazon.com/Graphic-Designer-without-Losing-Expanded/dp/1568989830/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1516586778&sr=1-1-spell) by Adrian Shaughnessy
 
