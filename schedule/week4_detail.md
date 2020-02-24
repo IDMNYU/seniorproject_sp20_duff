@@ -8,7 +8,7 @@
   * Document your [accountability partner](../assignments/accountability_partner.md) meeting\(s\) on your [process website](../pre-work/website.md).
 * Draft list of [resources and milestones](../project_plan/) for your project.
 * Continue to [research and design](../project_plan/) your project.
-* Document your process and project, which includes your  [resources and milestones](../project_plan/) and [research and design](../project_plan/), on your [process website](../pre-work/website.md).
+* Document your process and project, which includes your [resources and milestones](../project_plan/) and [research and design](../project_plan/), on your [process website](../pre-work/website.md).
 
 ## Class
 
