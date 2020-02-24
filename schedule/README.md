@@ -86,7 +86,7 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left">6</td>
       <td style="text-align:left"><a href="week6_detail.md">Mon Mar 09</a>
       </td>
-      <td style="text-align:left">Research and design / Resources and Milestones</td>
+      <td style="text-align:left">Project plan presentation</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
