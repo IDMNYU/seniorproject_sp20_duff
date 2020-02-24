@@ -18,6 +18,7 @@
 
 * Guest: Kristofer G. Larsen, kristofor.larsen@nyu.edu, Assistant Director, Office of Global Awards
 * Class Discussion: [IMA/Games/IDM Career Fai**r!**](https://tisch.nyu.edu/itp/events/spring-2020/ima-games-idm-career-fair)
+* Pecha Kucha: Jimmy Hwang
 * Review [Personal Kanban](../assignments/personal_kanban.md), a visual representation of your milestones
 * Group critique: 
   * [research and design](../project_plan/)
