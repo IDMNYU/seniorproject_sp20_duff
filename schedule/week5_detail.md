@@ -2,6 +2,7 @@
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
+* Create [project plan presentation](../critiques-demos-presentations-and-exhibition/project_plan_presentation.md) minus the development section unless you're there already.
 * Iterate: 
   * [research and design](../project_plan/) of your project.
   * [resources and milestones](../project_plan/) for your project. \(if applicable\)
@@ -9,10 +10,7 @@
 
 ## Class
 
-* Group critique: 
-  * [resources and milestones](https://github.com/IDMNYU/seniorproject_sp20_duff/blob/master/project_plan.md)
-  * [research and design](https://github.com/IDMNYU/seniorproject_sp20_duff/blob/master/project_plan.md)
-* Check-in with your [accountability partner](../assignments/accountability_partner.md).
+* [Project plan presentation](../critiques-demos-presentations-and-exhibition/project_plan_presentation.md)
 
 
 
