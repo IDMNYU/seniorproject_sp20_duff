@@ -12,6 +12,12 @@
 
 ## Class
 
+![Announcement also pinned on slack](../.gitbook/assets/capstone-flyer-2020.jpg)
+
+![](../.gitbook/assets/office-of-global-awards-office-hour-banner_brooklyn-campus-1.jpg)
+
+* Guest: Kristofer G. Larsen, Assistant Director, Office of Global Awards
+* Class Discussion
 * Review [Personal Kanban](../assignments/personal_kanban.md), a visual representation of your milestones
 * Group critique: 
   * [research and design](../project_plan/)
