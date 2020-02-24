@@ -12,6 +12,8 @@ _Illustration by Jolby from gettoworkbook_
       <th style="text-align:left">wk1</th>
       <th style="text-align:left">date</th>
       <th style="text-align:left">class</th>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
     </tr>
   </thead>
   <tbody>
@@ -20,24 +22,32 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left"><a href="week1_detail.md">Mon Jan 27</a>
       </td>
       <td style="text-align:left">Syllabus / Pecha kucha presentations</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">2</td>
       <td style="text-align:left"><a href="week2_detail.md">Mon Feb 03</a>
       </td>
       <td style="text-align:left">Pecha kucha presentation revisions (if applicable)</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left">Sun, Feb 09</td>
       <td style="text-align:left"><b>LAST DAY OF DROP/ADD</b> (to receive 100% of tuition &amp; fees and
         not receive a grade of &apos;W&apos;)</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">3</td>
       <td style="text-align:left"><a href="week3_detail.md">Mon Feb 10</a>
       </td>
       <td style="text-align:left">Research and design</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -45,43 +55,56 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left">EXTRA CREDIT: <a href="https://tisch.nyu.edu/itp/events/spring-2020/ima-games-idm-career-fair"><b>IMA/Games/IDM Career Fair!</b></a> You
         are strongly encouraged to attend if you do not have a conflicting class.
         If you do plan on participating, please let me know.</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left">Mon Feb 17</td>
       <td style="text-align:left"><b>President&apos;s Day / University Holiday - NO Classes</b>
       </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">4</td>
       <td style="text-align:left"><a href="week4_detail.md">Mon Feb 24</a>
       </td>
-      <td style="text-align:left">Research and design</td>
+      <td style="text-align:left">Research and design / Resources and Milestones</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">5</td>
       <td style="text-align:left"><a href="week5_detail.md">Mon Mar 02</a>
       </td>
-      <td style="text-align:left">Resources and milestones / research and design</td>
+      <td style="text-align:left">Project plan presentation</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">6</td>
       <td style="text-align:left"><a href="week6_detail.md">Mon Mar 09</a>
       </td>
-      <td style="text-align:left">Project plan presentation</td>
+      <td style="text-align:left">Research and design / Resources and Milestones</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
       <td style="text-align:left">Mon Mar 16 - Fri Mar 20</td>
       <td style="text-align:left"><b>Spring Break - NO CLASS</b>
       </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Research and design / Resources and Milestones</td>
     </tr>
     <tr>
       <td style="text-align:left">7</td>
       <td style="text-align:left"><a href="week7_detail.md">Mon Mar 23</a>
       </td>
-      <td style="text-align:left"><b>Midterm Demo and Critique (12:30-4:20pm) <br /></b>Will be held in
-        Studio A or B in 370 Jay</td>
+      <td style="text-align:left">Research and design / Resources and Milestones</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">8</td>
@@ -92,6 +115,8 @@ _Illustration by Jolby from gettoworkbook_
         </p>
         <p>Will be held in Studio A or B in 370 Jay</p>
       </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -111,42 +136,56 @@ _Illustration by Jolby from gettoworkbook_
           </li>
         </ul>
       </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left">Fri Apr 3</td>
       <td style="text-align:left"><b>LAST DAY TO WITHDRAW</b>
       </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">9</td>
       <td style="text-align:left"><a href="week9_detail.md">Mon Apr 6</a>
       </td>
       <td style="text-align:left">Pro practices materials</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">10</td>
       <td style="text-align:left"> <a href="week11_detail.md">Mon Apr 13</a>
       </td>
       <td style="text-align:left">Pro practices materials (if applicable)</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">11</td>
       <td style="text-align:left"><a href="week11_detail.md">Mon Apr 20</a>
       </td>
       <td style="text-align:left">Project Demo of Gold Version (if applicable)</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">12</td>
       <td style="text-align:left"><a href="week12_detail.md">Mon Apr 27</a>
       </td>
       <td style="text-align:left">Project Demo of Gold Version Revision (if applicable)</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">13</td>
       <td style="text-align:left"><a href="week13_detail.md">Mon May 04</a>
       </td>
       <td style="text-align:left">Project Demo of Gold Version Revision (if applicable)</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">14</td>
@@ -154,11 +193,15 @@ _Illustration by Jolby from gettoworkbook_
       </td>
       <td style="text-align:left"><b>LAST DAY OF SPRING 2020 CLASSES</b>
       </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left">Tue May 12</td>
       <td style="text-align:left">NYU Reading Day</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">15</td>
@@ -166,6 +209,8 @@ _Illustration by Jolby from gettoworkbook_
       </td>
       <td style="text-align:left"> <b>Final One On One Review</b>
       </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>**Dates TBD:**
