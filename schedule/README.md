@@ -61,7 +61,7 @@ _Illustration by Jolby from gettoworkbook_
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left">Mon Feb 17</td>
-      <td style="text-align:left"><b>President&apos;s Day / University Holiday - NO Classes</b>
+      <td style="text-align:left"><b>President&apos;s Day / University Holiday / NO CLASS</b>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
@@ -91,10 +91,10 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">Mon Mar 16 - Fri Mar 20</td>
-      <td style="text-align:left"><b>Spring Break - NO CLASS</b>
-      </td>
       <td style="text-align:left"></td>
+      <td style="text-align:left">Mon Mar 16</td>
+      <td style="text-align:left"><b>Spring Break / NO CLASS</b>
+      </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
