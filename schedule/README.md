@@ -96,7 +96,7 @@ _Illustration by Jolby from gettoworkbook_
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
-      <td style="text-align:left">Research and design / Resources and Milestones</td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">7</td>
