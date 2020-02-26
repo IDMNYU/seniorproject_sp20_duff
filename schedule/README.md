@@ -102,7 +102,11 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left">7</td>
       <td style="text-align:left"><a href="week7_detail.md">Mon Mar 23</a>
       </td>
-      <td style="text-align:left">Research and design / Resources and Milestones</td>
+      <td style="text-align:left">
+        <p><b>Midterm Demo and Critique continued (12:30-4:20pm)</b>
+        </p>
+        <p>Will be held in Studio A or B in 370 Jay</p>
+      </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
