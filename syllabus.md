@@ -116,6 +116,7 @@ Individual meetings are not optional. They are important and useful. Sometimes t
 * Do not make assumptions. Ask questions.
 * Do your best.
 * Do NOT take feedback personally.
+* Be impeccable with your word.
 
 **Guidelines for the critique:**
 
