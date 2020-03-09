@@ -19,10 +19,8 @@
  
 
 * Class critique: [Project plan presentation](../critiques-demos-presentations-and-exhibition/project_plan_presentation.md)
-* Group critique: 
-  * [research and design](../project_plan/)
-  * [resources and milestones](../project_plan/)
-* Check-in with your [accountability partner](../assignments/accountability_partner.md).
+
+
 
 
 
