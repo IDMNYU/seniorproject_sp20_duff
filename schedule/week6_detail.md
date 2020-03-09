@@ -7,6 +7,17 @@
 
 ## Class
 
+{% file src="../.gitbook/assets/student-research-colloquium-poster-011720draft2-1.pdf" caption="IDM/LS Colloquium Poster" %}
+
+* RSVP here: [keynote and poster session of IDM/LS Colloquium](http://bit.ly/LSGlow)
+
+  * Friday, Mar 27th, from 11am-2:30pm at the Kimmel Center
+  * 60 Washington Square South
+  * Eisner and Lubin Auditorium  
+  * keynote 11-12pm and student poster session 12-1:30pm
+
+ 
+
 * Class critique: [Project plan presentation](../critiques-demos-presentations-and-exhibition/project_plan_presentation.md)
 * Group critique: 
   * [research and design](../project_plan/)

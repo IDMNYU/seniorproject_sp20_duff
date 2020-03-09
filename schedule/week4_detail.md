@@ -8,7 +8,7 @@
   * Document your [accountability partner](../assignments/accountability_partner.md) meeting\(s\) on your [process website](../pre-work/website.md).
 * Draft list of [resources and milestones](../project_plan/) for your project.
 * Continue to [research and design](../project_plan/) your project.
-* Document your process and project, which includes your  [resources and milestones](../project_plan/) and [research and design](../project_plan/), on your [process website](../pre-work/website.md).
+* Document your process and project, which includes your [resources and milestones](../project_plan/) and [research and design](../project_plan/), on your [process website](../pre-work/website.md).
 
 ## Class
 
@@ -16,8 +16,9 @@
 
 ![](../.gitbook/assets/office-of-global-awards-office-hour-banner_brooklyn-campus-1.jpg)
 
-* Guest: Kristofer G. Larsen, Assistant Director, Office of Global Awards
+* Guest: Kristofer G. Larsen, kristofor.larsen@nyu.edu, Assistant Director, Office of Global Awards
 * Class Discussion: [IMA/Games/IDM Career Fai**r!**](https://tisch.nyu.edu/itp/events/spring-2020/ima-games-idm-career-fair)
+* Pecha Kucha: Jimmy Hwang
 * Review [Personal Kanban](../assignments/personal_kanban.md), a visual representation of your milestones
 * Group critique: 
   * [research and design](../project_plan/)
