@@ -11,6 +11,5 @@
 
 * [**Midterm Demo and Critique**](../critiques-demos-presentations-and-exhibition/project_demo.md) **with Alex Nathanson's senior project from 12:30-4:20pm. Location TBD on IDM flr in 370 Jay**
 * **Attendance is MANDATORY for the full four hours unless you have a class. You'll need to show me in Albert.**
-
-\*\*\*\*
+* \*\*\*\*
 

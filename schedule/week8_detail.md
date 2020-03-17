@@ -7,6 +7,6 @@
 
 ## Class
 
-* \*\*\*\*[**Midterm Demo and Critique**](../critiques-demos-presentations-and-exhibition/project_demo.md) **continues with another section of senior project from 12:30-4:20pm in either Studio A or B on IDM flr in 370 Jay.**
-* **Attendance is MANDATORY for the full four hours unless you have a class. You'll need to show me in Albert.**
+* \*\*\*\*[**Midterm Demo and Critique**](../critiques-demos-presentations-and-exhibition/project_demo.md) **with Alex Nathanson's senior project section from 12:30-4:20pm on Zoom.**
+* **Attendance is MANDATORY for the full four hours unless you have a class. You'll need to show me a screenshot of your schedule from Albert.**
 
