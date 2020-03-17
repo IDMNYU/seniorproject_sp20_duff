@@ -102,11 +102,7 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left">7</td>
       <td style="text-align:left"><a href="week7_detail.md">Mon Mar 23</a>
       </td>
-      <td style="text-align:left">
-        <p><b>Midterm Demo and Critique continued (12:30-4:20pm)</b>
-        </p>
-        <p>Will be held in Studio A or B in 370 Jay</p>
-      </td>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
@@ -117,7 +113,7 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left">
         <p><b>Midterm Demo and Critique continued (12:30-4:20pm)</b>
         </p>
-        <p>Will be held in Studio A or B in 370 Jay</p>
+        <p>Will be held via Zoom</p>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
@@ -155,7 +151,11 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left">9</td>
       <td style="text-align:left"><a href="week9_detail.md">Mon Apr 6</a>
       </td>
-      <td style="text-align:left">Pro practices materials</td>
+      <td style="text-align:left">
+        <p><b>Midterm Demo and Critique continued (12:30-4:20pm)</b>
+        </p>
+        <p>Will be held via Zoom</p>
+      </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
@@ -163,7 +163,7 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left">10</td>
       <td style="text-align:left"> <a href="week11_detail.md">Mon Apr 13</a>
       </td>
-      <td style="text-align:left">Pro practices materials (if applicable)</td>
+      <td style="text-align:left">Pro practices materials</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
