@@ -125,9 +125,7 @@ _Illustration by Jolby from gettoworkbook_
         <p><b>Midterm One On One Review</b>
         </p>
         <ul>
-          <li>Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a>.
-            Please be aware that I have two different offices. Depending on the day
-            you choose, you may have to come to NYU&apos;s Bobst Library.</li>
+          <li>Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a>.</li>
           <li><a href="https://github.com/IDMNYU/seniorproject_sp20_duff/tree/0f2608a9ce0820faa34805b26c86faa1c8fa3495/midterm_assessment.md"><b>Midterm Self Assessment</b></a>  <b>&amp; Rubric Due</b> (Direct
             message as pdf to deangela on slack BEFORE your meeting).
             <ul>
