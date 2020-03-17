@@ -102,7 +102,7 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left">7</td>
       <td style="text-align:left"><a href="week7_detail.md">Mon Mar 23</a>
       </td>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
+      <td style="text-align:left">Midterm Demo and Critique process discussion</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
@@ -111,7 +111,7 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left"><a href="week8_detail.md">Mon </a><a href="week8_detail.md">Mar 30</a>
       </td>
       <td style="text-align:left">
-        <p><b>Midterm Demo and Critique continued (12:30-4:20pm)</b>
+        <p><b>Midterm Demo and Critique (12:30-4:20pm)</b>
         </p>
         <p>Will be held via Zoom</p>
       </td>
