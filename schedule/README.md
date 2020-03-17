@@ -102,19 +102,22 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left">7</td>
       <td style="text-align:left"><a href="week7_detail.md">Mon Mar 23</a>
       </td>
-      <td style="text-align:left">Midterm Demo and Critique process discussion / Midterm One On One Review</td>
-      <td
-      style="text-align:left"></td>
-        <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p><b>Midterm Demo and Critique continued (12:30-4:20pm)</b>
+        </p>
+        <p>Will be held in Studio A or B in 370 Jay</p>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">8</td>
       <td style="text-align:left"><a href="week8_detail.md">Mon </a><a href="week8_detail.md">Mar 30</a>
       </td>
       <td style="text-align:left">
-        <p><b>Midterm Demo and Critique (12:30-4:20pm)</b>
+        <p><b>Midterm Demo and Critique continued (12:30-4:20pm)</b>
         </p>
-        <p>Will be held via Zoom</p>
+        <p>Will be held in Studio A or B in 370 Jay</p>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
@@ -126,8 +129,10 @@ _Illustration by Jolby from gettoworkbook_
         <p><b>Midterm One On One Review</b>
         </p>
         <ul>
-          <li>Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a>.</li>
-          <li>&lt;b&gt;&lt;/b&gt;<a href="../end_of_semester_deliverables/midterm_self_assessment.md"><b>Midterm Self Assessment</b></a>  <b>&amp; Rubric Due</b> (Direct
+          <li>Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a>.
+            Please be aware that I have two different offices. Depending on the day
+            you choose, you may have to come to NYU&apos;s Bobst Library.</li>
+          <li><a href="https://github.com/IDMNYU/seniorproject_sp20_duff/tree/0f2608a9ce0820faa34805b26c86faa1c8fa3495/midterm_assessment.md"><b>Midterm Self Assessment</b></a>  <b>&amp; Rubric Due</b> (Direct
             message as pdf to deangela on slack BEFORE your meeting).
             <ul>
               <li>Rubric will be posted on Slack.</li>
@@ -150,11 +155,7 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left">9</td>
       <td style="text-align:left"><a href="week9_detail.md">Mon Apr 6</a>
       </td>
-      <td style="text-align:left">
-        <p><b>Midterm Demo and Critique continued (12:30-4:20pm)</b>
-        </p>
-        <p>Will be held via Zoom</p>
-      </td>
+      <td style="text-align:left">Pro practices materials</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
@@ -162,7 +163,7 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left">10</td>
       <td style="text-align:left"> <a href="week11_detail.md">Mon Apr 13</a>
       </td>
-      <td style="text-align:left">Pro practices materials</td>
+      <td style="text-align:left">Pro practices materials (if applicable)</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
