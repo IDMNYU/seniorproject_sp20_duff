@@ -11,6 +11,4 @@
 
 * [**Midterm Demo and Critique**](../critiques-demos-presentations-and-exhibition/project_demo.md) **with Alex Nathanson's senior project section from 12:30-4:20pm on Zoom.**
 * **Attendance is MANDATORY for the full four hours unless you have a class. You'll need to show me a screenshot of your schedule from Albert.**
-* Group critique: [Pro practices materials](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/0f2608a9ce0820faa34805b26c86faa1c8fa3495/pro_practices_revisions/README.md)
-* Check-in with your accountability partner.
-
+* 
