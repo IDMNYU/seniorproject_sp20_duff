@@ -102,9 +102,10 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left">7</td>
       <td style="text-align:left"><a href="week7_detail.md">Mon Mar 23</a>
       </td>
-      <td style="text-align:left">Midterm Demo and Critique process discussion</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Midterm Demo and Critique process discussion / Midterm One On One Review</td>
+      <td
+      style="text-align:left"></td>
+        <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">8</td>
