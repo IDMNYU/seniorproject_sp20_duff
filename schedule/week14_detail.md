@@ -4,7 +4,7 @@
 
 * Read from "End" chapter of Do The Work by Steven Pressfield \(6 min\) and post your [response](../assignments/responses.md) to your process website.
 * Continue to [develop the project itself and iterate the research, design, resources, and milestones](../project_plan/) of your project.
-* [Document](../pre-work/website.md) your process and artifacts which includes the [prototype\(s\)](../project_plan/) of your project.
+* [Document](../pre-work/website.md) your process and project.
 
 ## Class
 
