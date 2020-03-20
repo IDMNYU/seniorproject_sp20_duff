@@ -8,6 +8,7 @@
 
 ## Class
 
+* Check in to see how everyone is doing.
 * Get acclimated to [Zoom](http://nyu.zoom.us).
 * Discuss [Midterm Demo and Critique](../critiques-demos-presentations-and-exhibition/project_demo.md) process and rest of semester.
   * Review documentation of prototype\(s\) on [process website](../pre-work/website.md).
