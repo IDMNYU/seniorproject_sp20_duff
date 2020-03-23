@@ -1,6 +1,6 @@
 # Midterm Project Demo
 
-**Please consult** [**Project Demos**](project_demo.md) **for additional info.**
+**Midterm Project Demo Logistics**
 
 * We will be using a different zoom link than the one today.
 * I will send you a calendar invite on Sunday March 29th with the zoom link. There will be relevant information in the calendar invite description.
@@ -9,7 +9,7 @@
 * Direct message me on slack when you have posted this. 
 * Please post at the latest by Sunday March 29 at noon EST. 
 
-**Midterm Project Demo**
+**Midterm Project Demo Setup**
 
 * Our section will be combined with Alex Nathanson's section. 
 * There will be at least 30 people in our zoom session.
