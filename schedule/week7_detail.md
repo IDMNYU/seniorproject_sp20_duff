@@ -10,6 +10,11 @@
 
 * _We will be meeting via Zoom for the rest of the semester. Check slack for the link._
 * _I will be recording this class session._
+* _Slack and gitbook are still the main sources of communication and information about our class._
+  * \_\_[_Manage your Slack email notifications._](https://slack.com/help/articles/360003868571-Manage-your-Slack-email-subscriptions) __
+  * _Your email notifications should go to your nyu email._ 
+  * _You should check your nyu email daily._
+* _Gitbook has been updated to reflect the changes in the schedule._
 * Check in to see how everyone is doing.
 * Get acclimated to [Zoom](http://nyu.zoom.us). 
   * [NYU Zoom Animated Guide for Students](https://www.youtube.com/watch?time_continue=54&v=LAzoWO3lMzI&feature=emb_title).
