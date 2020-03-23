@@ -3,12 +3,22 @@
 **Please consult** [**Project Demos**](project_demo.md) **for additional info.**
 
 * We will be using a different zoom link than the one today.
+* I will send you a calendar invite on Sunday March 29th with the zoom link. There will be relevant information in the calendar invite description.
 * I will slack everyone the link and the schedule on Sunday morning.
 * Please post links and/or photos and/or videos of your prototype\(s\) on this [google doc](https://docs.google.com/document/d/1ZdseARFH-GAUl_GSCIKApVZ-YRCHG9FqtXkFFrBNUOw/edit?usp=sharing).
 * Direct message me on slack when you have posted this. 
 * Please post at the latest by Sunday March 29 at noon EST. 
 
-\*\*\*\*
+**Midterm Project Demo**
+
+* Our section will be combined with Alex Nathanson's section. 
+* There will be at least 30 people in our zoom session.
+* We will be broken up into zoom breakout rooms.
+* Each breakout room should consist of at least 1 to 2 projects per date from both sections for a total of 7 to 8 students in each breakout room.
+* Faculty and any external critics may or may not rotate in and out of breakout rooms.
+* Each zoom breakout group needs to assign a student timekeeper or we can assign a student. We should decide which approach.
+* Every student should have 14 min total to be fair. 
+* Each student would present for up to 5 min and have the remaining time for feedback for a total of 14 min.
 
 **Rules of the critique:**
 
@@ -25,7 +35,7 @@
 * What are ways that the project can be improved?
 * What additional references, resources, projects, and/or links would be useful for this project?
 
-## Additional Guidelines for your Project Demo
+## Additional Guidelines for your Midterm Project Demo
 
 * You will demo the project at its current state.
 * The focus is on the actual artifact you are creating and nothing else.
