@@ -19,6 +19,7 @@
   * [NYU Zoom Animated Guide for Students](https://www.youtube.com/watch?time_continue=54&v=LAzoWO3lMzI&feature=emb_title).
   * Chat function.
   * Raise hand function.
+  * Virtual Background.
 * **Check in to see how everyone is doing.**
 * [Temporary Adobe Creative Cloud Access for NYU Students](http://www.nyu.edu/servicelink/KB0018090)
 * Discuss [Midterm Demo and Critique](../critiques-demos-presentations-and-exhibition/project_demo.md) process and rest of semester.
