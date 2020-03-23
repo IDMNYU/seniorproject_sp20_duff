@@ -8,6 +8,7 @@
 
 ## Class
 
+* We will be meeting via Zoom for the rest of the semester. Check slack for the link.
 * Check in to see how everyone is doing.
 * Get acclimated to [Zoom](http://nyu.zoom.us). 
   * [NYU Zoom Animated Guide for Students](https://www.youtube.com/watch?time_continue=54&v=LAzoWO3lMzI&feature=emb_title).
