@@ -21,6 +21,7 @@
   * Raise hand function.
   * Virtual Background.
 * **Check in to see how everyone is doing.**
+* OPTIONAL IDM Colloquium this evening at 5pm EST, but I'd highly suggest you attend. You should have received an email from Scott Fitzgerald with the zoom link. If you didn't direct message me on slack, and I'll send it to you.
 * [Temporary Adobe Creative Cloud Access for NYU Students](http://www.nyu.edu/servicelink/KB0018090)
 * Discuss [Midterm Demo and Critique](../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md) process 
 * Discuss rest of semester.
