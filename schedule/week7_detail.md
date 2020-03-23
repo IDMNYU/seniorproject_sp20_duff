@@ -15,9 +15,11 @@
   * _Your email notifications should go to your nyu email._ 
   * _You should check your nyu email daily._
 * _Gitbook has been updated to reflect the changes in the schedule._
-* Check in to see how everyone is doing.
 * Get acclimated to [Zoom](http://nyu.zoom.us). 
   * [NYU Zoom Animated Guide for Students](https://www.youtube.com/watch?time_continue=54&v=LAzoWO3lMzI&feature=emb_title).
+  * Chat function.
+  * Raise hand function.
+* **Check in to see how everyone is doing.**
 * [Temporary Adobe Creative Cloud Access for NYU Students](http://www.nyu.edu/servicelink/KB0018090)
 * Discuss [Midterm Demo and Critique](../critiques-demos-presentations-and-exhibition/project_demo.md) process and rest of semester.
   * Review documentation of prototype\(s\) on [process website](../pre-work/website.md).
