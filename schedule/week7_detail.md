@@ -25,7 +25,7 @@
 * Discuss [Midterm Demo and Critique](../critiques-demos-presentations-and-exhibition/project_demo.md) process and rest of semester.
 * We will be using a different zoom link than the one today.
   * I will slack everyone the link and the schedule on Sunday morning.
-  * Please post links and/or photos and/or videos of your prototype\(s\) on this google doc.
+  * Please post links and/or photos and/or videos of your prototype\(s\) on this [google doc](https://docs.google.com/document/d/1ZdseARFH-GAUl_GSCIKApVZ-YRCHG9FqtXkFFrBNUOw/edit?usp=sharing).
     * Review documentation of prototype\(s\) on [process website](../pre-work/website.md).
       * Direct message me on slack when you have posted this. 
       * Please post at the latest by Sunday March 29 at noon. 
