@@ -46,8 +46,13 @@ NEW: Also post at least two comments in our class' main slack channel documentin
 
 ## Additional Guidelines for your Midterm Project Demo
 
-* You will demo the project at its current state.
-* The focus is on the actual artifact you are creating and nothing else.
+* Think of this as a show and tell.
+* Be prepared to deliver an elevator pitch of your project verbally. 
+* Be prepared to demo the project at its current state. 
+* You will have 14 min total to deliver your elevator pitch, demo your project, AND receive feedback from the group.
+* You will have up to 5 min to do both: deliver the elevator pitch and demo the project. You do not need to use the entire 5 min. That way you'll have more time for feedback.
+* The remaining time will be used for the rest of your breakout group to give you feedback.
+* The focus is on the actual artifact\(s\) you are creating and nothing else.
 * Do NOT create a supporting presentation.
 
 ### Be prepared to discuss the following for your Project Demo
