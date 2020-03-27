@@ -1,12 +1,13 @@
 # Midterm Project Demo
 
-**Midterm Project Demo is MANDATORY on both dates.**
+**Attendance for the Midterm Project Demo is MANDATORY on both dates.**
 
 **Midterm Project Demo Logistics**
 
 * We will be using a different zoom link than the one used for class on Mon Mar 23.
 * I will send you a calendar invite on Sunday March 29 with the zoom link. There will also be relevant information in the calendar invite description.
 * I will also slack everyone the link and the schedule on Sunday roughly around 1pm.
+* Please look at the project plans and prototypes of the students in your breakout group BEFORE class. If everyone does this, you can spend less time talking and showing your project and more time getting feedback on your project.
 * Please post the link\(s\) to the posts on your process website which contain the link\(s\), photos and/or videos of your prototype\(s\) on this [google doc](https://docs.google.com/document/d/1ZdseARFH-GAUl_GSCIKApVZ-YRCHG9FqtXkFFrBNUOw/edit?usp=sharing).
   * Direct message me on slack when you have posted this. 
   * Please post at the latest by Sunday March 29 at noon EST. 
@@ -25,9 +26,11 @@
 
 ### Document your feedback
 
-Always document any feedback you receive on your [process website](../pre-work/website.md) after any critique. This critique feedback post should include images of the current status of your project \(prototype or version\), a description of your project progress as it currently stands and discussion of the feedback you received from the critique. How will this feedback improve your work and ideas?
-
-NEW: Also post at least two comments in our class' main slack channel documenting the feedback you gave to at least two other classmates. 
+* Always document any feedback you receive on your [process website](../pre-work/website.md) after any critique. The midterm project demo is no different. 
+  * This critique feedback post should include images of the current status of your project \(prototype\(s\)\), a description of your project progress as it currently stands, and a discussion of the feedback you received from the critique.
+    * How will this feedback improve your project and progress?
+    * Evaluate whether the prototype\(s\) gave you the feedback you require to transform or move forward with your project. If not, reflect upon why not.
+* NEW: Also post at least two comments in our class' main slack channel documenting the feedback you gave to at least two other classmates. 
 
 **Rules of the critique:**
 
@@ -55,12 +58,11 @@ NEW: Also post at least two comments in our class' main slack channel documentin
 * The focus is on the actual artifact\(s\) you are creating and nothing else.
 * Do NOT create a supporting presentation.
 
-### Be prepared to discuss the following for your Project Demo
+### Be prepared to discuss the following about your project
 
 From Stephanie Houde and Charles Hill's _What do Prototypes prototype?_, prototypes provide a means to examine design problems.
 
 * What does \(and does not\) your prototype explore at this moment in time?
-* Evaluate whether the prototype gives you the feedback you require to transform or move forward with your project.
 
 ### Invite guests
 
