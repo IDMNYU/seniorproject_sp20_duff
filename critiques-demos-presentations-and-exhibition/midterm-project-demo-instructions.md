@@ -1,16 +1,13 @@
 # Midterm Project Demo
 
-**Attendance for the Midterm Project Demo is MANDATORY on both dates.**
-
 **Midterm Project Demo Logistics**
 
-* We will be using a different zoom link than the one used for class on Mon Mar 23.
-* I will send you a calendar invite on Sunday March 29 with the zoom link. There will also be relevant information in the calendar invite description.
-* I will also slack everyone the link and the schedule on Sunday roughly around 1pm.
-* Please look at the project plans and prototypes of the students in your breakout group BEFORE class. If everyone does this, you can spend less time talking and showing your project and more time getting feedback on your project.
-* Please post the link\(s\) to the posts on your process website which contain the link\(s\), photos and/or videos of your prototype\(s\) on this [google doc](https://docs.google.com/document/d/1ZdseARFH-GAUl_GSCIKApVZ-YRCHG9FqtXkFFrBNUOw/edit?usp=sharing).
-  * Direct message me on slack when you have posted this. 
-  * Please post at the latest by Sunday March 29 at noon EST. 
+* We will be using a different zoom link than the one today.
+* I will send you a calendar invite on Sunday March 29th with the zoom link. There will be relevant information in the calendar invite description.
+* I will slack everyone the link and the schedule on Sunday at noon.
+* Please post links and/or photos and/or videos of your prototype\(s\) on this [google doc](https://docs.google.com/document/d/1ZdseARFH-GAUl_GSCIKApVZ-YRCHG9FqtXkFFrBNUOw/edit?usp=sharing).
+* Direct message me on slack when you have posted this. 
+* Please post at the latest by Sunday March 29 at noon EST. 
 
 **Midterm Project Demo Setup**
 
@@ -18,21 +15,10 @@
 * There will be at least 30 people in our zoom session.
 * We will be broken up into zoom breakout rooms.
 * Each breakout room should consist of at least 1 to 2 projects per date from both sections for a total of 7 to 8 students in each breakout room.
-* Faculty and any "outside of our class" critics may or may not rotate in and out of breakout rooms.
-* Each zoom breakout room will be assigned a student timekeeper, chat monitor, and a student to take screenshots of the chat.
-  * Once you see the assignments on Sunday and you are uncomfortable with being either the timekeeper, chat monitor, or with taking screenshots let me know.
+* Faculty and any external critics may or may not rotate in and out of breakout rooms.
+* Each zoom breakout group needs to assign a student timekeeper or we can assign a student. We should decide which approach.
 * Every student should have 14 min total to be fair. 
 * Each student would present for up to 5 min and have the remaining time for feedback for a total of 14 min.
-
-### Document your feedback ASAP 
-
-#### preferably by the following day at the latest if at all possible
-
-* Always document any feedback you receive on your [process website](../pre-work/website.md) after any critique. The midterm project demo is no different. 
-  * This critique feedback post should include images of the current status of your project \(prototype\(s\)\), a description of your project progress as it currently stands, and a discussion of the feedback you received from the critique.
-    * How will this feedback improve your project and progress?
-    * Evaluate whether the prototype\(s\) gave you the feedback you require to transform or move forward with your project. If not, reflect upon why not.
-* NEW: Also post at least two comments in our class' main slack channel documenting the feedback you gave to at least two other classmates. 
 
 **Rules of the critique:**
 
@@ -51,22 +37,22 @@
 
 ## Additional Guidelines for your Midterm Project Demo
 
-* Think of this as a show and tell.
-* Be prepared to deliver an elevator pitch of your project verbally. 
-* Be prepared to demo the project at its current state. 
-* You will have 14 min total to deliver your elevator pitch, demo your project, AND receive feedback from the group.
-* You will have up to 5 min to do both: deliver the elevator pitch and demo the project. You do not need to use the entire 5 min. That way you'll have more time for feedback.
-* The remaining time will be used for the rest of your breakout group to give you feedback.
-* The focus is on the actual artifact\(s\) you are creating and nothing else.
+* You will demo the project at its current state.
+* The focus is on the actual artifact you are creating and nothing else.
 * Do NOT create a supporting presentation.
 
-### Be prepared to discuss the following about your project
+### Be prepared to discuss the following for your Project Demo
 
 From Stephanie Houde and Charles Hill's _What do Prototypes prototype?_, prototypes provide a means to examine design problems.
 
 * What does \(and does not\) your prototype explore at this moment in time?
+* Evaluate whether the prototype gives you the feedback you require to transform or move forward with your project.
 
 ### Invite guests
 
 It is the responsibility of each senior to invite an outside critic to _at least_ one of their project critiques, demos, or presentations. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc. A one on one, documented meeting \(date, time, length, and typed notes\) with the outside critic can substitute for their presence at a project critique. Also, have the outside critic email me to confirm that they actually met with you.
+
+### Document your feedback
+
+Always document any feedback you receive on your [process website](../pre-work/website.md) after any critique. This critique feedback post should include images of the current status of your project \(prototype or version\), a description of your project progress as it currently stands and discussion of the feedback your received from the critique. How will this feedback improve your work and ideas?
 
