@@ -4,10 +4,10 @@
 
 **Midterm Project Demo Logistics**
 
-* We will be using a different zoom link than the one today.
-* I will send you a calendar invite on Sunday March 29th with the zoom link. There will be relevant information in the calendar invite description.
-* I will slack everyone the link and the schedule on Sunday at noon.
-* Please post links and/or photos and/or videos of your prototype\(s\) on this [google doc](https://docs.google.com/document/d/1ZdseARFH-GAUl_GSCIKApVZ-YRCHG9FqtXkFFrBNUOw/edit?usp=sharing).
+* We will be using a different zoom link than the one used for class on Mon Mar 23.
+* I will send you a calendar invite on Sunday March 29 with the zoom link. There will also be relevant information in the calendar invite description.
+* I will also slack everyone the link and the schedule on Sunday roughly around 1pm.
+* Please post the link\(s\) to the posts on your process website which contain the link\(s\), photos and/or videos of your prototype\(s\) on this [google doc](https://docs.google.com/document/d/1ZdseARFH-GAUl_GSCIKApVZ-YRCHG9FqtXkFFrBNUOw/edit?usp=sharing).
   * Direct message me on slack when you have posted this. 
   * Please post at the latest by Sunday March 29 at noon EST. 
 
@@ -22,6 +22,12 @@
   * Once you see the assignments on Sunday and you are uncomfortable with being either the timekeeper, chat monitor, or with taking screenshots let me know.
 * Every student should have 14 min total to be fair. 
 * Each student would present for up to 5 min and have the remaining time for feedback for a total of 14 min.
+
+### Document your feedback
+
+Always document any feedback you receive on your [process website](../pre-work/website.md) after any critique. This critique feedback post should include images of the current status of your project \(prototype or version\), a description of your project progress as it currently stands and discussion of the feedback you received from the critique. How will this feedback improve your work and ideas?
+
+NEW: Also post at least two comments in our class' main slack channel documenting the feedback you gave to at least two other classmates. 
 
 **Rules of the critique:**
 
@@ -54,8 +60,4 @@ From Stephanie Houde and Charles Hill's _What do Prototypes prototype?_, prototy
 ### Invite guests
 
 It is the responsibility of each senior to invite an outside critic to _at least_ one of their project critiques, demos, or presentations. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc. A one on one, documented meeting \(date, time, length, and typed notes\) with the outside critic can substitute for their presence at a project critique. Also, have the outside critic email me to confirm that they actually met with you.
-
-### Document your feedback
-
-Always document any feedback you receive on your [process website](../pre-work/website.md) after any critique. This critique feedback post should include images of the current status of your project \(prototype or version\), a description of your project progress as it currently stands and discussion of the feedback your received from the critique. How will this feedback improve your work and ideas?
 
