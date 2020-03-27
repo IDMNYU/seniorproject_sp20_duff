@@ -24,7 +24,9 @@
 * Every student should have 14 min total to be fair. 
 * Each student would present for up to 5 min and have the remaining time for feedback for a total of 14 min.
 
-### Document your feedback
+### Document your feedback ASAP 
+
+#### preferably by the following day at the latest if at all possible
 
 * Always document any feedback you receive on your [process website](../pre-work/website.md) after any critique. The midterm project demo is no different. 
   * This critique feedback post should include images of the current status of your project \(prototype\(s\)\), a description of your project progress as it currently stands, and a discussion of the feedback you received from the critique.
