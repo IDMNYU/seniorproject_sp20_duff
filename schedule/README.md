@@ -89,7 +89,7 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left"><a href="week8_detail.md">Mon </a><a href="week8_detail.md">Mar 30</a>
       </td>
       <td style="text-align:left">
-        <p>&lt;b&gt;&lt;/b&gt;<a href="../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md"><b>Midterm Demo and Critique</b></a><b> (12:30-2:20pm)</b>
+        <p>&lt;b&gt;&lt;/b&gt;<a href="../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md"><b>Midterm Demo and Critique</b></a><b> </b>
         </p>
         <p>Will be held via Zoom</p>
       </td>
@@ -99,7 +99,7 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left"><a href="week9_detail.md">Mon Apr 6</a>
       </td>
       <td style="text-align:left">
-        <p>&lt;b&gt;&lt;/b&gt;<a href="../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md"><b>Midterm Demo and Critique</b></a><b> continued (12:30-2:20pm)</b>
+        <p>&lt;b&gt;&lt;/b&gt;<a href="../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md"><b>Midterm Demo and Critique</b></a><b> continued </b>
         </p>
         <p>Will be held via Zoom</p>
       </td>
