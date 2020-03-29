@@ -4,7 +4,7 @@
 
 **Midterm Project Demo Prep**
 
-* Please document your prototype\(s\) by posting the link\(s\) directly to the thing itself if it is a website \(incl. soundcloud links\), social media feed \(instagram, etc\), animatic or animation on vimeo or youtube, etc OR  posting link\(s\) from your process website which contain photos and/or videos of your prototype\(s\) to this [google doc](https://docs.google.com/document/d/1ZdseARFH-GAUl_GSCIKApVZ-YRCHG9FqtXkFFrBNUOw/edit?usp=sharing).
+* By or before Sunday at noon EST, please document your prototype\(s\) by posting the link\(s\) directly to the thing itself if it is a website \(incl. soundcloud links\), social media feed \(instagram, etc\), animatic or animation on vimeo or youtube, etc OR  posting link\(s\) from your process website which contain photos and/or videos of your prototype\(s\) to this [google doc](https://docs.google.com/document/d/1ZdseARFH-GAUl_GSCIKApVZ-YRCHG9FqtXkFFrBNUOw/edit?usp=sharing).
 * We will be using a different zoom link than the one used for class on Mon Mar 23.
 * I will send you a calendar invite on Sunday Mar 29 with the zoom link. 
 * The calendar invite description will also contain a link to the google doc which will contain which Monday and the time when you will be demoing your project, the project plans and links to the prototypes of our combined section, as well as a link to this webpage.
