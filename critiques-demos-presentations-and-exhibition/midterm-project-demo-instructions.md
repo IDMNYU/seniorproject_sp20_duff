@@ -2,15 +2,18 @@
 
 **Attendance for the Midterm Project Demo is MANDATORY on both dates.**
 
+**Midterm Project Demo Prep**
+
+* Please document your prototype\(s\) by posting the link\(s\) directly to the thing itself if it is a website \(incl. soundcloud links\), social media feed \(instagram, etc\), animatic or animation on vimeo or youtube, etc OR posting link\(s\) from your process website which contain photos and/or videos of your prototype\(s\) on this [google doc](https://docs.google.com/document/d/1ZdseARFH-GAUl_GSCIKApVZ-YRCHG9FqtXkFFrBNUOw/edit?usp=sharing).
+* We will be using a different zoom link than the one used for class on Mon Mar 23.
+* I will send you a calendar invite on Sunday March 29 with the zoom link. 
+  * A link to the google doc which contains the project plans and links to the prototypes of our combined section will be added to the calendar invite description, as well as a link to this webpage.
+* I will also slack everyone the link and the schedule on Sunday.
+* Please look at the project plans and prototypes of the students in your breakout group BEFORE class. If everyone does this, you can spend less time talking and showing your project and more time getting feedback on your project.
+* Also if you have been assigned a timekeeper, chat moderator, or have been asked to screenshot the chat and you are uncomfortable in doing so, please let me know ASAP. However, I want students to participate.
+
 **Midterm Project Demo Logistics**
 
-* We will be using a different zoom link than the one used for class on Mon Mar 23.
-* I will send you a calendar invite on Sunday March 29 with the zoom link. There will also be relevant information in the calendar invite description.
-* I will also slack everyone the link and the schedule on Sunday roughly around 1pm.
-* Please look at the project plans and prototypes of the students in your breakout group BEFORE class. If everyone does this, you can spend less time talking and showing your project and more time getting feedback on your project.
-* Please document your prototype\(s\) by posting the link\(s\) directly to the thing itself if it is a website \(incl. soundcloud links\), social media feed \(instagram, etc\), animatic or animation on vimeo or youtube, etc OR posting link\(s\) from your process website which contain photos and/or videos of your prototype\(s\) on this [google doc](https://docs.google.com/document/d/1ZdseARFH-GAUl_GSCIKApVZ-YRCHG9FqtXkFFrBNUOw/edit?usp=sharing).
-  * Direct message me on slack when you have posted this. 
-  * Please post at the latest by Sunday March 29 at noon EST. 
 * When you share your prototype\(s\) to the class during your midterm demo, try to bypass showing it on your process website. In other words, if you have images just show the images using preview, etc. If you have created a website, animatic or animation on vimeo or youtube, etc, go directly to that link in a web browser.
 * Also, make sure to also document your prototype\(s\) on your [process website](../pre-work/website.md) by creating post\(s\) which contain the link\(s\), photo\(s\), and/or video\(s\) of your prototype\(s\).
 
