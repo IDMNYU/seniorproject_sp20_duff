@@ -33,7 +33,7 @@ Critiques \(AKA crits\) are the best way to articulate your ideas to others and 
 * What is working about the project?
 * What is confusing or needs more clarification about the project?
 * What are ways that the project can be improved?
-* What additional references, resources, projects, and/or links that would be useful for the project?
+* What additional references, resources, projects, and/or links would be useful for this project?
 
 ## Additional Guidelines for your Project Demo
 
