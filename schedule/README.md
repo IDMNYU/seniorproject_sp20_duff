@@ -126,6 +126,12 @@ _Illustration by Jolby from gettoworkbook_
         <br />Pro practices materials</td>
     </tr>
     <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Fri Apr 17</td>
+      <td style="text-align:left"><b>NYU Midterm Grades DUE</b>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left">11</td>
       <td style="text-align:left"><a href="week11_detail.md">Mon Apr 20</a>
       </td>
