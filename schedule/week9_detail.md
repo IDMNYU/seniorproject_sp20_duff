@@ -7,8 +7,8 @@
 
 ## Class
 
-* [**Midterm Demo and Critique**](../critiques-demos-presentations-and-exhibition/project_demo.md) **with Alex Nathanson's senior project section on Zoom.**
-* **Attendance is MANDATORY.**
+* \*\*\*\*[**Midterm Demo and Critique**](../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md) ****on Zoom.
+* Attendance is MANDATORY.
 
 
 

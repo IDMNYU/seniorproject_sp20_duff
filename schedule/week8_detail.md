@@ -7,7 +7,7 @@
 
 ## Class
 
-* \*\*\*\*[**Midterm Demo and Critique**](../critiques-demos-presentations-and-exhibition/project_demo.md) ****on Zoom.
+* \*\*\*\*[**Midterm Demo and Critique**](../critiques-demos-presentations-and-exhibition/midterm-project-demo-instructions.md) ****on Zoom.
 * Attendance is MANDATORY.
 
 
