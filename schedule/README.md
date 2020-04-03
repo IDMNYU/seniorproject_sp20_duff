@@ -106,7 +106,7 @@ _Illustration by Jolby from gettoworkbook_
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left">Tue Apr 7 - Thu Apr 15</td>
+      <td style="text-align:left">Tue Apr 7 - Fri Apr 10</td>
       <td style="text-align:left">
         <p><b>Midterm One On One Review</b>
         </p>
