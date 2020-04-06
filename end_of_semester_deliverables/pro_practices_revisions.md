@@ -6,31 +6,33 @@ Iterate the following from professional practices:
   * Your **portfolio website** _NOTE: This is different than your_ [_process website_](../pre-work/website.md)_._  This website should market and promote your entire body of work **including your senior project** for possible employment or other post graduation opportunities. Ideally, you should have your own domain name. I suggest getting your own domain name through an ISP \(Internet Service Provider. I recommend [Siteground](http://siteground.com) or [Dreamhost](http://dreamhost.com).
   * Your **LinkedIn profile**. Make sure you connect with me, your peers in this section of senior project, the other senior project sections, and with as many people as possible in the IDM community. Continue to build your network.
 * Export the following as pdfs and upload to your project documentation folder for your [end of semester deliverables](./) in a folder named "Pro Practices Revisions".
-* Please name your files as lastname\_senior\_sp20\_resume.pdf and lastname\_senior\_sp20\_cover.pdf 
-  * Resume \(which should contain the URL to your portfolio website\)
-  * Cover Letter
+  * Please name your files as lastname\_senior\_sp20\_resume.pdf and lastname\_senior\_sp20\_cover.pdf 
+    * Resume \(which should contain the URL to your portfolio website\)
+    * Cover Letter
 
 ## Professional Practices Resources
 
 _NYU Resources_
 
+* [NYU Global Awards](http://nyu.edu/scholarships) \(Fulbright, Marshall, Rhodes, etc.\). Remember your contact is Kristofor Larsen, kristofor.larsen@nyu.edu.
 * [NYU Photo Bureau](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/university-relationsandpublicaffairs/public-affairs/photo-bureau.html)
 
   **Students** can get free headshots from the NYU Photo Bureau. I highly recommend that you take advantage of it for your portfolio website and LinkedIn profile. It's a very popular service. You just need to book it \(sometimes weeks\) in advance. The NYU photo bureau is currently moving locations. So they're not taking any appointments until February.
 
-* [Wasserman Center](https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html)
-* [Leslie Elab](http://entrepreneur.nyu.edu/)
+* [NYU Wasserman Center](https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html) for Career Development
+* [NYU Leslie Elab](https://entrepreneur.nyu.edu/) \(Entrepreneurship\)
 
 _Miscellaneous_
 
 * [AIGA Professional Resources](http://www.aiga.org/professional-resources)
-* [Pew Resarch](http://www.pewresearch.org/)
+* [Pew Research](http://www.pewresearch.org/)
 * [Get A Design Job!](http://www.aiga.org/get-a-design-job) by RitaSue Siegel
 * [How to Be a Graphic Designer without Losing Your Soul](https://www.amazon.com/Graphic-Designer-without-Losing-Expanded/dp/1568989830/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1516586778&sr=1-1-spell) by Adrian Shaughnessy 
 
 _Job Boards_
 
 * [Glass Door](http://glassdoor.com)
+* **Highly Recommended!** Subscribe to the [Words of Mouth Newsletter](http://www.wordsofmouth.org/)
 * [Uncubed](https://uncubed.com)
 * [We Work Remotely](https://weworkremotely.com) 
 * [AIGA Design Jobs](http://designjobs.aiga.org)
@@ -41,7 +43,7 @@ _Job Boards_
 
 _Salary Negotiation_
 
-* [Fealess Negotiating](https://www.amazon.com/Fearless-Negotiating-Michael-C-Donaldson/dp/1259584801/ref=sr_1_1_twi_pap_2?ie=UTF8&qid=1516674344&sr=8-1&keywords=fearless+negotiating) by Michael C. Donaldson
+* [Fearless Negotiating](https://www.amazon.com/Fearless-Negotiating-Michael-C-Donaldson/dp/1259584801/ref=sr_1_1_twi_pap_2?ie=UTF8&qid=1516674344&sr=8-1&keywords=fearless+negotiating) by Michael C. Donaldson
 * [Lean In for Graduates](http://www.amazon.com/Lean-Graduates-Sheryl-Sandberg/dp/0385353677/ref=sr_1_1?ie=UTF8&qid=1442940600&sr=8-1&keywords=lean+in+for+graduates) by Sheryl Sanders 
 * [Influence: The Psychology of Persuasion](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X/ref=sr_1_4?s=books&ie=UTF8&qid=1516674402&sr=1-4&keywords=influence) by Robert B. Cialdini
 * [How To Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People-ebook/dp/B003WEAI4E/ref=sr_1_3?s=books&ie=UTF8&qid=1516674757&sr=1-3&keywords=dale+carnegie) by Dale Carnegie
