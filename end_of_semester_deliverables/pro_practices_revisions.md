@@ -9,6 +9,9 @@ Iterate the following from professional practices:
   * Please name your files as lastname\_senior\_sp20\_resume.pdf and lastname\_senior\_sp20\_cover.pdf 
     * Resume \(which should contain the URL to your portfolio website\)
     * Cover Letter
+      * [https://m.signalvnoise.com/looking-for-a-new-job-dont-be-boring/](https://m.signalvnoise.com/looking-for-a-new-job-dont-be-boring/)
+      * [https://m.signalvnoise.com/what-we-learned-while-hiring-the-basecamp-summer-internship-class/](https://m.signalvnoise.com/what-we-learned-while-hiring-the-basecamp-summer-internship-class/) \(You don't have to read the entire article. You can search for the following header: Tips for prospective interns\)
+      * [https://signalvnoise.com/posts/1748-forget-the-resume-kill-on-the-cover-letter?41\#comments](https://signalvnoise.com/posts/1748-forget-the-resume-kill-on-the-cover-letter?41#comments) \(Reading all of the comments is just as important as reading the very short article.\)
 
 ## Professional Practices Resources
 
