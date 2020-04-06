@@ -6,9 +6,9 @@ Iterate the following from professional practices:
   * Your **portfolio website** _NOTE: This is different than your_ [_process website_](../pre-work/website.md)_._  This website should market and promote your entire body of work **including your senior project** for possible employment or other post graduation opportunities. Ideally, you should have your own domain name. I suggest getting your own domain name through an ISP \(Internet Service Provider. I recommend [Siteground](http://siteground.com) or [Dreamhost](http://dreamhost.com).
   * Your **LinkedIn profile**. Make sure you connect with me, your peers in this section of senior project, the other senior project sections, and with as many people as possible in the IDM community. Continue to build your network.
 * Export the following as pdfs and upload to your project documentation folder for your [end of semester deliverables](./) in a folder named "Pro Practices Revisions".
-* Please name your files as lastname\_senior\_sp20\_resume.pdf and lastname\_senior\_sp20\_cover.pdf 
-  * Resume \(which should contain the URL to your portfolio website\)
-  * Cover Letter
+  * Please name your files as lastname\_senior\_sp20\_resume.pdf and lastname\_senior\_sp20\_cover.pdf 
+    * Resume \(which should contain the URL to your portfolio website\)
+    * Cover Letter
 
 ## Professional Practices Resources
 
@@ -18,8 +18,8 @@ _NYU Resources_
 
   **Students** can get free headshots from the NYU Photo Bureau. I highly recommend that you take advantage of it for your portfolio website and LinkedIn profile. It's a very popular service. You just need to book it \(sometimes weeks\) in advance. The NYU photo bureau is currently moving locations. So they're not taking any appointments until February.
 
-* [Wasserman Center](https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html)
-* [Leslie Elab](http://entrepreneur.nyu.edu/)
+* NYU [Wasserman Center](https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html)
+* NYU [Leslie Elab](http://entrepreneur.nyu.edu/)
 
 _Miscellaneous_
 
