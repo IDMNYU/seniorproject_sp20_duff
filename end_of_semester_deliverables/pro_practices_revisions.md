@@ -31,7 +31,7 @@ _Miscellaneous_
 _Job Boards_
 
 * [Glass Door](http://glassdoor.com)
-* [Words of Mouth Newsletter](http://www.wordsofmouth.org/)
+* **Highly Recommended!** Subscribe to the [Words of Mouth Newsletter](http://www.wordsofmouth.org/)
 * [Uncubed](https://uncubed.com)
 * [We Work Remotely](https://weworkremotely.com) 
 * [AIGA Design Jobs](http://designjobs.aiga.org)
