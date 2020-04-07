@@ -106,7 +106,7 @@ _Illustration by Jolby from gettoworkbook_
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left">Tue Apr 7 - Fri Apr 10</td>
+      <td style="text-align:left">Tue Apr 7 - Thu Apr 15</td>
       <td style="text-align:left">
         <p><b>Midterm One On One Review</b>
         </p>
@@ -135,8 +135,8 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left">11</td>
       <td style="text-align:left"><a href="week11_detail.md">Mon Apr 20</a>
       </td>
-      <td style="text-align:left">Will be held via Zoom:
-        <br />Project Demo of Gold Version (if applicable)</td>
+      <td style="text-align:left"><b>No Class / Individual One on Ones instead via Zoom</b>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">12</td>
