@@ -19,6 +19,6 @@
 
 ## Class
 
-* Class Critique: [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md). 
+* Class Critique: [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) or Revision. 
 * Check-in with your accountability partner.
 
