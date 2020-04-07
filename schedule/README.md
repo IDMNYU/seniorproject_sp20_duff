@@ -143,21 +143,27 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left"><a href="week12_detail.md">Mon Apr 27</a>
       </td>
       <td style="text-align:left">Will be held via Zoom:
-        <br />Project Demo of Gold Version Revision (if applicable)</td>
+        <br />Project Demo</td>
     </tr>
     <tr>
       <td style="text-align:left">13</td>
       <td style="text-align:left"><a href="week13_detail.md">Mon May 04</a>
       </td>
       <td style="text-align:left">Will be held via Zoom:
-        <br />Project Demo of Gold Version Revision (if applicable)</td>
+        <br />Project Demo of Gold Version or Revision (if applicable)</td>
     </tr>
     <tr>
       <td style="text-align:left">14</td>
       <td style="text-align:left"><a href="week14_detail.md">Mon May 11</a>
       </td>
-      <td style="text-align:left"><b>LAST DAY OF SPRING 2020 CLASSES</b>
-      </td>
+      <td style="text-align:left"><b>LAST DAY OF SPRING 2020 CLASSES<br /></b>Will be held via Zoom:
+        <br
+        />Project Demo of Gold Version or Revision (if applicable)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
