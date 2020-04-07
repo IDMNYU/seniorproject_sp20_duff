@@ -195,6 +195,5 @@ _Illustration by Jolby from gettoworkbook_
   </tbody>
 </table>**Dates TBD:**
 
-* Guest or Field Trip
 * IDM Student Showcase
 
