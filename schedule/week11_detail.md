@@ -14,11 +14,14 @@
 
 #### **Deliverables**
 
-* Check-in with your accountability partner.
+* Check-in with your [accountability partner](../assignments/accountability_partner.md).
 * Continue to [develop the project itself, and iterate the research, design, resources, and milestones](../project_plan/) of your project as needed.
 * Continue to document your process and artifacts \(the thing\(s\) itself\) on your [process website](../pre-work/website.md).
 
 ## Class
 
 * We won't be having class today.
+* OPTIONAL: If you want to talk to me about your project, setup a **20 min** one on one meeting via [https://calendly.com/deangela](https://calendly.com/deangela).
+  * Tue Apr 14 – Fri Apr 17 OR
+  * Fri April 24
 
