@@ -14,7 +14,6 @@
 
 #### **Deliverables**
 
-* Check-in with your [accountability partner](../assignments/accountability_partner.md).
 * Continue to [develop the project itself, and iterate the research, design, resources, and milestones](../project_plan/) of your project as needed.
 * Continue to document your process and artifacts \(the thing\(s\) itself\) on your [process website](../pre-work/website.md).
 

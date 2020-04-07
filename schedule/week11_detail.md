@@ -21,7 +21,7 @@
 ## Class
 
 * We won't be having class today.
-* OPTIONAL: If you want to talk to me about your project, setup a **20 min** one on one meeting via [https://calendly.com/deangela](https://calendly.com/deangela).
+* Setup a **20 min** one on one meeting via [https://calendly.com/deangela](https://calendly.com/deangela).
   * Tue Apr 14 – Fri Apr 17 OR
   * Fri April 24
 
