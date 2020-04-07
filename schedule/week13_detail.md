@@ -19,6 +19,6 @@
 
 ## Class
 
-* Class Critique: [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) of [Gold Version](../project_plan/project_versions.md) Revision \(if applicable\)
+* Class Critique: [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) of [Gold Version](../project_plan/project_versions.md) \(if applicable\)
 * Check-in with your accountability partner.
 
