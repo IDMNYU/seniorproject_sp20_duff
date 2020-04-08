@@ -26,10 +26,11 @@
 **Of The Course**
 
 * Feedback on the syllabus 
-* Feedback on the course content \(project, assignments, readings\)
-* Feedback on the course structure \(presentations, critiques, demos, one on one meetings\)
+* Feedback on communication \(gitbook and slack\)
+* Feedback on the course content \(project, assignments, readings, etc.\)
+* Feedback on the course structure \(presentations, group critiques, demos, one on one meetings, accountability partners, etc\)
 * Feedback on remote instruction for senior project in particular.
 * What change\(s\) would you make to this course and why?
-* What change\(s\) would you make to remote instruction and why?
+* What change\(s\) would you make to remote instruction for this course and why?
 * What resources have you found to be specifically helpful to you for this course? And why?
 
