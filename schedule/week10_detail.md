@@ -29,6 +29,7 @@
 
 ## Class
 
+* Discuss [next week](week11_detail.md).
 * Group critique: [Pro practices materials](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/0f2608a9ce0820faa34805b26c86faa1c8fa3495/pro_practices_revisions/README.md).
 * Check-in with your accountability partner.
 
