@@ -12,9 +12,9 @@
   * Review each other's [project tasks](personal_kanban.md)
     * Are they actionable?
     * Are they complete?
-  * On your [process website](../pre-work/website.md):
-    * Document anything that you discussed with your accountability partner in your weekly status post.
-    * Add your partners feedback in your weekly status post.
+  * In your weekly status post on your [process website](../pre-work/website.md):
+    * Document anything that you discussed with your accountability partner.
+    * Add your partners feedback about your process and/or project.
 * Take notes for each other's presentations
 * Provide moral support and encouragement
 
