@@ -9,7 +9,7 @@
   * OUTSIDE of class
 * Conduct a weekly review
   * Review each other's calendar
-  * Review each other's project tasks
+  * Review each other's [project tasks](personal_kanban.md)
     * Are they actionable?
     * Are they complete?
   * On your [process website](../pre-work/website.md):
