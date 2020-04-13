@@ -26,8 +26,7 @@
   * LinkedIn
   * Resumes
   * Cover Letters
-* Meet with your [accountability partner](../assignments/accountability_partner.md) if you have not set up a meeting for this week yet.
-* Setup a **20 min** one on one meeting via [https://calendly.com/deangela](https://calendly.com/deangela) \(IF you're not already meeting with me for a one on one midterm assessment review Mon Apr 13 - Fri Apr 17.\)
+* Setup a **20 min** one on one meeting via [https://calendly.com/deangela](https://calendly.com/deangela) \(IF you're not already meeting with me for a one on one Mon Apr 13 - Fri Apr 17.\)
   * Tue Apr 14 – Fri Apr 17 OR
   * Fri April 24
 
