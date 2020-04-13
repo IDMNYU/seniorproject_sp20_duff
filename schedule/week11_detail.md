@@ -26,7 +26,7 @@
   * LinkedIn
   * Resumes
   * Cover Letters
-* Setup a **20 min** one on one meeting via [https://calendly.com/deangela](https://calendly.com/deangela) \(IF you're not already meeting with me for a one on one midterm assessment review Mon Apr 13 - Fri Apr 17.\)
+* Setup a **20 min** one on one meeting via [https://calendly.com/deangela](https://calendly.com/deangela) \(IF you're not already meeting with me for a one on one Mon Apr 13 - Fri Apr 17.\)
   * Tue Apr 14 – Fri Apr 17 OR
   * Fri April 24
 
