@@ -29,7 +29,11 @@
 
 ## Class
 
+* Check-in
 * Announcement: [next week](week11_detail.md).
+* Make sure you continue to check-in with your [accountability partner](../assignments/accountability_partner.md) and document it on the [process website](../pre-work/website.md).
+* The main slack channel is also yours to use. You can post links to videos, etc.
 * Group critique: [Pro practices materials](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/0f2608a9ce0820faa34805b26c86faa1c8fa3495/pro_practices_revisions/README.md).
 * Check-in with your accountability partner.
+* Check-out
 
