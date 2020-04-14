@@ -10,10 +10,6 @@ Any action without reflection is meaningless; real learning only occurs as part 
 
 As a student, you should also develop your critical thinking skills. This will initially involve critiquing other people’s work but ultimately you also want to be able to critique your own work. This will allow you to develop as a creator.
 
-![](../.gitbook/assets/experiential_learning_cycles_475.jpg)
-
-![](../.gitbook/assets/experiential_learning_cycle_simple_476.jpg)
-
 **Of Project**
 
 * Critically analyze/evaluate your senior project **process**.
@@ -23,4 +19,8 @@ As a student, you should also develop your critical thinking skills. This will i
 * What are your open issues?
 * What are your risks of failure \(lack of tech, time, knowledge, money, etc.\)?
 * Create a contingency plan for major risks.
+
+![](../.gitbook/assets/experiential_learning_cycles_475.jpg)
+
+![](../.gitbook/assets/experiential_learning_cycle_simple_476.jpg)
 
