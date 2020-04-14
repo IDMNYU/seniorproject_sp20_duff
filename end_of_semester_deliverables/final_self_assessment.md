@@ -3,6 +3,12 @@
 * Please name your file as lastname\_\_senior\_sp20\_finalassessment.pdf
 * Export as a pdf and upload to your project documentation folder for your [end of semester deliverables](./).
 
+## Reflection
+
+Any action without reflection is meaningless; real learning only occurs as part of a reflective process. Reflection is studying your own practice  as seriously as you study anything; it involves thinking about why, what, and how you create something. In any learning situation you should study beforehand, make/do, debug, reflect, adjust, and do it all over again. Learning happens in a cycle, illustrated in the diagrams below.
+
+As a student, you should also develop your critical thinking skills. This will initially involve critiquing other people’s work but ultimately you also want to be able to critique your own work. This will allow you to develop as a creator.
+
 **Of Project**
 
 * Critically analyze/evaluate your senior project process and final **execution**.
@@ -33,4 +39,8 @@
 * What change\(s\) would you make to senior project and why?
 * What change\(s\) would you make to remote instruction for senior project and why?
 * What resources have you found to be specifically helpful to you for this course? And why?
+
+![](../.gitbook/assets/experiential_learning_cycles_475.jpg)
+
+![](../.gitbook/assets/experiential_learning_cycle_simple_476.jpg)
 
