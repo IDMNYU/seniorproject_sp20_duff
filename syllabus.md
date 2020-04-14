@@ -231,6 +231,10 @@ All work for this class must be your own and specific to this semester. Any work
 
 You MUST have complete rights of use to any and all materials which appear in your senior project. This includes images, illustrations, audio etc. The source of any materials NOT created by you MUST be documented. Please remember that you can collaborate with other students to create your own media or contact the authors of your media selections for rights. I strongly encourage you to use original media for your senior project, however should you absolutely require to use stock images, video, etc., you will need to provide a PDF of all source files and the usage rights you have purchased/negotiated or whether it is creative commons or copyright free.
 
+### NYU Health and Wellness
+
+NYU offers many health and wellness services and resources. Take advantage of them. [https://www.nyu.edu/students/health-and-wellness.html](https://www.nyu.edu/students/health-and-wellness.html)
+
 ### Academic Accommodations
 
 If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. Information about the Moses Center can be found at [http://www.nyu.edu/csd](http://www.nyu.edu/csd). The Moses Center is located at [726 Broadway](https://www.google.com/maps?q=726+Broadway&entry=gmail&source=g) on the 2nd floor.
