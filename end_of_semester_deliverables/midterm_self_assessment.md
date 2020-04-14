@@ -6,7 +6,7 @@
 
 ## Reflection
 
-Any action without reflection is meaningless; real learning only occurs as part of a reflective process. Reflection is studying your own practice  as seriously as you study anything; it involves thinking about why, what, and how you create something. In any learning situation you should study beforehand, make/do, debug, reflect, adjust, and do it all over again. Learning happens in a cycle, illustrated in the diagrams below.
+Any action without reflection is meaningless; real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything; it involves thinking about why, what, and how you create something. In any learning situation you should study beforehand, make/do, debug, reflect, adjust, and do it all over again. Learning happens in a cycle, illustrated in the diagrams below.
 
 As a student, you should also develop your critical thinking skills. This will initially involve critiquing other people’s work but ultimately you also want to be able to critique your own work. This will allow you to develop as a creator.
 
