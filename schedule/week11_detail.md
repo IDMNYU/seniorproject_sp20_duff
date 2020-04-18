@@ -4,6 +4,10 @@
 
 #### Reminders
 
+* **IDM Showcase Submission of Your Senior Project is DUE \(Required\)**
+
+  **by Fri, April 24 :** [**http://staging.morscad.com/idm/submission**](http://staging.morscad.com/idm/submission/)
+
 * The main slack channel is not just for me. It's for you, too. Free feel to share what has been helping you stay happy, healthy, or productive during this unprecedented time in our main slack channel. 
 
 **OPTIONAL**
