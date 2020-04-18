@@ -139,6 +139,18 @@ _Illustration by Jolby from gettoworkbook_
       </td>
     </tr>
     <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>Fri</p>
+        <p>Apr 24</p>
+      </td>
+      <td style="text-align:left">
+        <p><b>IDM Showcase Submission of Your Senior Project is DUE (Required):</b>
+        </p>
+        <p>&lt;b&gt;&lt;/b&gt;<a href="http://staging.morscad.com/idm/submission/"><b>http://staging.morscad.com/idm/submission</b></a>&lt;b&gt;&lt;/b&gt;</p>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left">12</td>
       <td style="text-align:left"><a href="week12_detail.md">Mon Apr 27</a>
       </td>
