@@ -29,7 +29,7 @@ PDF Cover:
 
 Combine multiple pdfs using Adobe Acrobat Pro: FILE &gt; CREATE &gt; COMBINE INTO A SINGLE PDF or using Preview \(Drag and Drop with thumbnail panel\)
 
-## Because of the impact of COVID-19, I am removing this optional requirement. ~~\(OPTIONAL instead of PDF\) END OF SEMESTER BOOK REQUIREMENTS~~
+## Because of the impact of COVID-19, I am removing this extra credit option. ~~\(OPTIONAL instead of PDF\) END OF SEMESTER BOOK REQUIREMENTS~~
 
 See the end of semester pdf requirements above and adopt them in book format instead IF YOU WANT EXTRA CREDIT.
 
