@@ -21,7 +21,7 @@
 ## Class
 
 * Check-in
-* Slack: Group Direct Messaging
+* Slack: Direct Messaging More Than One Person
 * Class Discussion:
   * IDM Showcase Live Q&A \(highly recommended, but not required\)
   * IDM Showcase 1min video
