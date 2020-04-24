@@ -21,9 +21,14 @@
 ## Class
 
 * Check-in
+* Slack: Group Direct Messaging
 * Class Discussion:
   * IDM Showcase Live Q&A \(highly recommended, but not required\)
   * IDM Showcase 1min video
+    * Lighting
+    * Audio
+    * Environment
+    * Platforms: 
 * Class Critique: [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) or Revision. 
 * Check-out
 
