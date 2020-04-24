@@ -21,14 +21,19 @@
 ## Class
 
 * Check-in
-* Slack: Direct Messaging More Than One Person
+* Slack: [Direct Messaging More Than One Person](https://slack.com/help/articles/212281468-What-is-a-direct-message)
 * Class Discussion:
+  * [AIGA Internships in Design: Advice for COVID-19](https://slack-redir.net/link?url=https%3A%2F%2Fwww.aiga.org%2Faiga%2Fcontent%2Ftools-and-resources%2Fcommitment-to-community%2Finternships-in-design-advice-for-covid-19%2F)
+  * Outside Critic
   * IDM Showcase Live Q&A \(highly recommended, but not required\)
   * IDM Showcase 1min video
     * Lighting
     * Audio
     * Environment
     * Platforms: 
+      * [Loom](https://www.loom.com/) a new platform which has a free version where you can record your screen, voice, and annotate all of the same time.
+      * You can use [NYU Stream](https://slack-redir.net/link?url=https%3A%2F%2Fwww.nyu.edu%2Flife%2Finformation-technology%2Finstructional-technology-support%2Fvideo-and-media-creation-presentation%2Fnyu-stream.html) to record
+      * You can also use [Zoom](https://slack-redir.net/link?url=https%3A%2F%2Fwww.nyu.edu%2Flife%2Finformation-technology%2Fcommunication-and-conferencing%2Fmeetings-chat-conferencing%2Fnyu-zoom.html) to record a video of yourself and your media using screenshare.
 * Class Critique: [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) or Revision. 
 * Check-out
 
