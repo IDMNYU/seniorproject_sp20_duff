@@ -21,6 +21,9 @@
 ## Class
 
 * Check-in
+* Class Discussion:
+  * IDM Showcase Live Q&A \(highly recommended, but not required\)
+  * IDM Showcase 1min video
 * Class Critique: [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) or Revision. 
 * Check-out
 
