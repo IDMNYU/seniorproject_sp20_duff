@@ -139,18 +139,6 @@ _Illustration by Jolby from gettoworkbook_
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">
-        <p>Fri</p>
-        <p>Apr 24</p>
-      </td>
-      <td style="text-align:left">
-        <p><b>IDM Showcase Submission of Your Senior Project is DUE (Required):</b>
-        </p>
-        <p>&lt;b&gt;&lt;/b&gt;<a href="http://staging.morscad.com/idm/submission/"><b>http://staging.morscad.com/idm/submission</b></a>&lt;b&gt;&lt;/b&gt;</p>
-      </td>
-    </tr>
-    <tr>
       <td style="text-align:left">12</td>
       <td style="text-align:left"><a href="week12_detail.md">Mon Apr 27</a>
       </td>
@@ -174,12 +162,13 @@ _Illustration by Jolby from gettoworkbook_
     </tr>
     <tr>
       <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
       <td style="text-align:left">Tue May 12</td>
-      <td style="text-align:left">
-        <p><b>IDM Student Showcase</b>
-        </p>
-        <p><b>NYU Reading Day / Also new withdrawal date</b>
-        </p>
+      <td style="text-align:left"><b>NYU Reading Day / Also new withdrawal date</b>
       </td>
     </tr>
     <tr>
@@ -194,8 +183,6 @@ _Illustration by Jolby from gettoworkbook_
           <li>Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a>.</li>
           <li>&lt;b&gt;&lt;/b&gt;<a href="../end_of_semester_deliverables/final_self_assessment.md"><b>Final Self Assessment</b></a> (Direct
             message as pdf to deangela on slack BEFORE your meeting).</li>
-          <li><a href="../end_of_semester_deliverables/">End of Semester Deliverables</a> will
-            be due</li>
         </ul>
         <p>&lt;b&gt;&lt;/b&gt;</p>
       </td>
@@ -206,4 +193,7 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>
+</table>**Dates TBD:**
+
+* IDM Student Showcase
+

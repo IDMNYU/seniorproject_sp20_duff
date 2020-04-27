@@ -4,7 +4,7 @@ At the beginning of the semester, create a google drive folder labeled "Senior P
 
 Over the course of the semester, you should upload the corresponding files and folers.
 
-* [Process pdf or book](pdf_or_book.md) file
+* [Process pdf](pdf_or_book.md) file
 * [Project Documentation](project_documentation.md) folder
 * [Pro Practices Revisions](pro_practices_revisions.md) files
 * [Final Self-assessment](final_self_assessment.md) file
