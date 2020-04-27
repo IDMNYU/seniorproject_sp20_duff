@@ -1,4 +1,4 @@
-# Process pdf or book
+# Process pdf
 
 I suggest using **Adobe InDesign** to compile this**.**
 
