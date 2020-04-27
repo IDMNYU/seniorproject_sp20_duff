@@ -194,6 +194,8 @@ _Illustration by Jolby from gettoworkbook_
           <li>Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a>.</li>
           <li>&lt;b&gt;&lt;/b&gt;<a href="../end_of_semester_deliverables/final_self_assessment.md"><b>Final Self Assessment</b></a> (Direct
             message as pdf to deangela on slack BEFORE your meeting).</li>
+          <li><a href="../end_of_semester_deliverables/">End of Semester Deliverables</a> will
+            be due</li>
         </ul>
         <p>&lt;b&gt;&lt;/b&gt;</p>
       </td>
