@@ -21,12 +21,16 @@
 ## Class
 
 * Check-in
+* Only 3 more classes left including today
+* Feel free to schedule a one on one meeting with me anytime at [http://calendly.com/deangela](http://calendly.com/deangela)
+* [End of Semester Deliverables](../end_of_semester_deliverables/) DUE during your final one on one
 * Slack: [Direct Messaging More Than One Person](https://slack.com/help/articles/212281468-What-is-a-direct-message)
 * Class Discussion:
-  * [AIGA Internships in Design: Advice for COVID-19](https://slack-redir.net/link?url=https%3A%2F%2Fwww.aiga.org%2Faiga%2Fcontent%2Ftools-and-resources%2Fcommitment-to-community%2Finternships-in-design-advice-for-covid-19%2F)
+  * [AIGA Internships in Design: Advice for COVID-19](https://slack-redir.net/link?url=https%3A%2F%2Fwww.aiga.org%2Faiga%2Fcontent%2Ftools-and-resources%2Fcommitment-to-community%2Finternships-in-design-advice-for-covid-19%2F) \(
+  * [AIGA Career Advice for COVID-19](https://www.aiga.org/aiga/content/tools-and-resources/commitment-to-community/career-advice-for-covid-19/)
   * Outside Critic
   * IDM Showcase Live Q&A \(highly recommended, but not required\)
-  * IDM Showcase 1min video
+  * IDM Showcase 1min video \(shared on Vimeo\)
     * Lighting
     * Audio
     * Environment
