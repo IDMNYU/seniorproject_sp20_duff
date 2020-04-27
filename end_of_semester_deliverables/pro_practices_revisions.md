@@ -9,16 +9,6 @@ Iterate the following from professional practices:
 
 Post the following to this [google doc](https://docs.google.com/document/d/18CQB1dACgRe8G3vZQplNiLf6qknTm_w3Fo1cuLvbhq4/edit?usp=sharing). 
 
-I've created some very short videos talking about 2 to 3 of your classmates' pro practices materials in each of the following categories.
-
-* [Portfolio Websites](https://stream.nyu.edu/media/Senior+Project+Portfolio/1_3ssg7ckj)
-* [LinkedIn](https://stream.nyu.edu/media/Senior+Project+LinkedIn/1_678bu9ia)
-* [Resumes](https://stream.nyu.edu/media/Senior+Project+Resume/1_0b28s5fz)
-* [Cover Letters](https://stream.nyu.edu/media/Senior+Project+Cover+Letters/1_36vlce7a)
-* [Career Resources](https://stream.nyu.edu/media/Senior+Project+Career+Resources/1_9kyp6fsm)
-
-Notes:
-
 * Your **portfolio website** _NOTE: This is different than your_ [_process website_](../pre-work/website.md)_._  This website should market and promote your entire body of work _including your senior project_ for possible employment or other post graduation opportunities. Ideally, you should have your own domain name. I suggest getting your own domain name through an ISP \(Internet Service Provider. I recommend [Siteground](http://siteground.com) or [Dreamhost](http://dreamhost.com).
 * Your **LinkedIn profile**. Make sure you connect with me, your peers in this section of senior project, the other senior project sections, and with as many people as possible in the IDM community. Continue to build your network.
 
