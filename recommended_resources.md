@@ -1,8 +1,6 @@
 # Recommended Resources
 
-![Everyone Starts at Zero](http://teaching.polishedsolid.com/images/gettoworkbook_at_zero.png)
-
-_Illustration by Jolby from gettoworkbook_
+![Illustration by Jolby from gettoworkbook](http://teaching.polishedsolid.com/images/gettoworkbook_at_zero.png)
 
 ## Career Preparation
 
