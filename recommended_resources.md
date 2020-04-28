@@ -11,14 +11,12 @@ _NYU Resources_
 * [Wasserman Center](https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html)
 * [Leslie Elab](http://entrepreneur.nyu.edu/)
 
- _Miscellaneous_
+ _LinkedIn_
 
-* [AIGA Professional Resources](http://www.aiga.org/professional-resources)
-* [Pew Research](http://www.pewresearch.org/)
-* [Get A Design Job!](http://www.aiga.org/get-a-design-job) by RitaSue Siegel
-* [How to Be a Graphic Designer without Losing Your Soul](https://www.amazon.com/Graphic-Designer-without-Losing-Expanded/dp/1568989830/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1516586778&sr=1-1-spell) by Adrian Shaughnessy
+* [Let Recruiters Know You’re Open to Job Opportunities \| LinkedIn Help](https://www.linkedin.com/help/linkedin/answer/67405?lang=en&src=aff-lilpar&veh=aff_src.aff-lilpar_c.partners_pkw.123201_plc.adgoal%20GmbH_pcrid.449670_learning&trk=aff_src.aff-lilpar_c.partners_pkw.123201_plc.adgoal%20GmbH_pcrid.449670_learning&clickid=XVGx8mzlPxyOUGjwUx0Mo38SUki2%3A00lwW9ZVM0&irgwc=1)
+* [Find Jobs on LinkedIn – Best Practices \| LinkedIn Help](https://www.linkedin.com/help/linkedin/answer/110912)
 
- _Job Boards_
+_Job Boards_
 
 * [Glass Door](http://glassdoor.com)
 * [Words of Mouth](http://www.wordsofmouth.org/)
@@ -29,6 +27,13 @@ _NYU Resources_
 * [Krop](http://www.krop.com)
 * [Coroflot](http://www.coroflot.com/public/jobs_browse.asp)
 * [Creative Hotlist](http://www.creativehotlist.com)
+
+ _Miscellaneous_
+
+* [AIGA Professional Resources](http://www.aiga.org/professional-resources)
+* [Pew Research](http://www.pewresearch.org/)
+* [Get A Design Job!](http://www.aiga.org/get-a-design-job) by RitaSue Siegel
+* [How to Be a Graphic Designer without Losing Your Soul](https://www.amazon.com/Graphic-Designer-without-Losing-Expanded/dp/1568989830/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1516586778&sr=1-1-spell) by Adrian Shaughnessy
 
  _Salary Negotiation_
 
