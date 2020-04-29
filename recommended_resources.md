@@ -14,6 +14,11 @@ _NYU Resources_
 * [Let Recruiters Know You’re Open to Job Opportunities \| LinkedIn Help](https://www.linkedin.com/help/linkedin/answer/67405?lang=en&src=aff-lilpar&veh=aff_src.aff-lilpar_c.partners_pkw.123201_plc.adgoal%20GmbH_pcrid.449670_learning&trk=aff_src.aff-lilpar_c.partners_pkw.123201_plc.adgoal%20GmbH_pcrid.449670_learning&clickid=XVGx8mzlPxyOUGjwUx0Mo38SUki2%3A00lwW9ZVM0&irgwc=1)
 * [Find Jobs on LinkedIn – Best Practices \| LinkedIn Help](https://www.linkedin.com/help/linkedin/answer/110912)
 
+_Catt Small_
+
+* \*\*\*\*[**Impress for success: Strategic ways to seem more hireable**](https://cattsmall.com/advice/2018/09/24/be-hireable-get-hired.html)\*\*\*\*
+* \*\*\*\*[**12 tips for getting into a new career**](https://cattsmall.com/advice/2019/11/02/get-entry-level-job-new-career.html)\*\*\*\*
+
 _Job Boards_
 
 * [Glass Door](http://glassdoor.com)
