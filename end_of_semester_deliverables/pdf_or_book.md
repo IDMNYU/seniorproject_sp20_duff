@@ -6,14 +6,6 @@ I would use the [project plan](../project_plan/) _as a guideline_ for the struct
 
 Upload all drafts including the final version to a folder labeled _end of semester pdf \(or book\)_ in your project documentation folder for your [end of semester deliverables](./).
 
-Here are some examples:
-
-You can make the blurb books fullscreen by clicking the expansion arrow above the image of the book. The third icon.
-
-* [https://www.blurb.com/books/2736960-putra-roeung-year-zero-soft-cover](https://www.blurb.com/books/2736960-putra-roeung-year-zero-soft-cover)
-* [https://www.blurb.com/books/2756340-stranger-danger](https://www.blurb.com/books/2756340-stranger-danger)
-* [Jeseok Process Book](https://drive.google.com/open?id=1AbIK24KMfOH3H6feaR1qQxpR1HUfqcra) \(Note: This is a draft. Not a final version.\)
-
 ### First and Second Drafts
 
 * Please name your file as lastname\_senior\_sp20\_draft\#\_date.pdf \(i.e. duff\_senior\_sp20\_draft1\_2020apr15.pdf and duff\_senior\_sp20\_draft2\_2020may08.pdf\)
