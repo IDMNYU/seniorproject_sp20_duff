@@ -165,6 +165,15 @@ _Illustration by Jolby from gettoworkbook_
         <br />Project Demo of Gold Version or Revision (if applicable)</td>
     </tr>
     <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>Wed</p>
+        <p>May 06</p>
+      </td>
+      <td style="text-align:left"><b>IDM Showcase Submissions DUE</b>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left">14</td>
       <td style="text-align:left"><a href="week14_detail.md">Mon May 11</a>
       </td>
@@ -195,8 +204,7 @@ _Illustration by Jolby from gettoworkbook_
           <li>Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a>.</li>
           <li>&lt;b&gt;&lt;/b&gt;<a href="../end_of_semester_deliverables/final_self_assessment.md"><b>Final Self Assessment</b></a> (Direct
             message as pdf to deangela on slack BEFORE your meeting).</li>
-          <li><a href="../end_of_semester_deliverables/">End of Semester Deliverables</a> will
-            be due</li>
+          <li><a href="../end_of_semester_deliverables/">End of Semester Deliverables</a> DUE</li>
         </ul>
         <p>&lt;b&gt;&lt;/b&gt;</p>
       </td>
