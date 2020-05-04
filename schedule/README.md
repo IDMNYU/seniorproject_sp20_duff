@@ -180,8 +180,8 @@ _Illustration by Jolby from gettoworkbook_
       </td>
       <td style="text-align:left"><b>LAST DAY OF SPRING 2020 CLASSES<br /></b>Will be held via Zoom:
         <br
-        />Project Demo of Gold Version or Revision (if applicable); OPTIONAL Process
-        pdf DRAFTS</td>
+        />Project Demo of Gold Version or Revision (if applicable) / (OPTIONAL)
+        Process pdf DRAFTS</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
