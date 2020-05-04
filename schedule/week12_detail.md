@@ -38,6 +38,6 @@
       * [Loom](https://www.loom.com/) a new platform which has a free version where you can record your screen, voice, and annotate all of the same time.
       * You can use [NYU Stream](https://slack-redir.net/link?url=https%3A%2F%2Fwww.nyu.edu%2Flife%2Finformation-technology%2Finstructional-technology-support%2Fvideo-and-media-creation-presentation%2Fnyu-stream.html) to record
       * You can also use [Zoom](https://slack-redir.net/link?url=https%3A%2F%2Fwww.nyu.edu%2Flife%2Finformation-technology%2Fcommunication-and-conferencing%2Fmeetings-chat-conferencing%2Fnyu-zoom.html) to record a video of yourself and your media using screenshare.
-* Class Critique: [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) or Revision. 
+* Group Critique: [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) or Revision. 
 * Check-out
 
