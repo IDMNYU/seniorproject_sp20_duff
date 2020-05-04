@@ -170,13 +170,14 @@ _Illustration by Jolby from gettoworkbook_
       </td>
       <td style="text-align:left"><b>LAST DAY OF SPRING 2020 CLASSES<br /></b>Will be held via Zoom:
         <br
-        />Project Demo of Gold Version or Revision (if applicable)</td>
+        />Project Demo of Gold Version or Revision (if applicable); OPTIONAL Process
+        pdf DRAFTS</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left">Tue May 12</td>
       <td style="text-align:left">
-        <p><b>IDM Student Showcase</b>
+        <p><b>IDM Student Showcase<br />Course Evaluations DUE</b>
         </p>
         <p><b>NYU Reading Day / Also new withdrawal date</b>
         </p>
