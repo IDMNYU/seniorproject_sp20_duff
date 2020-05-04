@@ -22,7 +22,7 @@
 
 * Check-in
 * Discuss: 
-  * IDM Showcase
+  * IDM Showcase 
   * [End of Semester Deliverables](../end_of_semester_deliverables/)
   * [Course Evaluation](../assignments/course_evaluation.md)
 * Class Critique: [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) of [Gold Version](../project_plan/project_versions.md) \(if applicable\)

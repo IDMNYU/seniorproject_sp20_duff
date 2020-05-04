@@ -10,7 +10,6 @@ NEW:
 * [Project Documentation](project_documentation.md) folder
 * [Final Self-assessment](final_self_assessment.md) pdf
 * [Letter To Next Cohort](letter_to_next_cohort.md) file 
-* [Course Evaluation](../assignments/course_evaluation.md) file
 
 OLD: You should already have the following. Just drag and drop in the folder if you haven't already.
 
