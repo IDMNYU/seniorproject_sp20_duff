@@ -25,6 +25,7 @@
   * [Project Versions](project_plan/project_versions.md)
 * [Assignments:](assignments/README.md)
   * [Accountability Partner](assignments/accountability_partner.md)
+  * [Course Evaluation](assignments/course_evaluation.md)
   * [Personal Kanban](assignments/personal_kanban.md)
   * [Responses](assignments/responses.md)
 * [Brainstorming:](brainstorming/README.md)
@@ -43,6 +44,5 @@
   * [Final Self Assessment](end_of_semester_deliverables/final_self_assessment.md)
   * [Letter to Next Cohort](end_of_semester_deliverables/letter_to_next_cohort.md)
   * [Midterm Self-Assessment](end_of_semester_deliverables/midterm_self_assessment.md)
-  * [Course Evaluation](end_of_semester_deliverables/course_evaluation.md)
 * [Recommended Resources](recommended_resources.md)
 

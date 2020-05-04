@@ -24,7 +24,7 @@
 **LAST DAY OF SPRING 2020 CLASSES**
 
 * Check-in
-* Course Evaluation
+* [Course Evaluation](../assignments/course_evaluation.md) Check-in
 * Class discussion of reading
 * Class Critique: 
   * \(OPTIONAL\) [Process pdf](../end_of_semester_deliverables/pdf_or_book.md) DRAFT
