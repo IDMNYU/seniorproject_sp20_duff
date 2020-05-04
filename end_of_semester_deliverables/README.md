@@ -6,7 +6,7 @@ Over the course of the semester, you should upload the corresponding files and f
   
 NEW:
 
-* [Process pdf](pdf_or_book.md) file
+* [Process pdf](pdf_or_book.md) pdf
 * [Project Documentation](project_documentation.md) folder
 * [Final Self-assessment](final_self_assessment.md) pdf
 * [Letter To Next Cohort](letter_to_next_cohort.md) file 
