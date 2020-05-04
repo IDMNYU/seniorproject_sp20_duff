@@ -11,5 +11,6 @@ Over the course of the semester, you should upload the corresponding files and f
 * [Letter To Next Cohort](letter_to_next_cohort.md) file 
 * [Midterm Self-assessment](midterm_self_assessment.md) file
 * [Course Evaluation](course_evaluation.md) file
-* [Pre-work](../pre-work/) folder
+* [Pecha Kucha presentation](../pre-work/pecha_kucha.md) exported as a pdf
+* [Project Plan](../project_plan/) presentation exported as a pdf
 

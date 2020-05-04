@@ -21,8 +21,6 @@
 ## Class
 
 * Check-in
-* Discuss IDM Showcase
-* Discuss End of Semester PDF
 * Class Critique: [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) of [Gold Version](../project_plan/project_versions.md) \(if applicable\)
 * Check-out
 
