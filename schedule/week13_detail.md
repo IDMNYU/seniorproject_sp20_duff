@@ -22,6 +22,7 @@
 
 * Check-in
 * Discuss: 
+  * [Master Schedule](./)
   * IDM Showcase 
   * [End of Semester Deliverables](../end_of_semester_deliverables/)
   * [Course Evaluation](../assignments/course_evaluation.md)
