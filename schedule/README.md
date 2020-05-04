@@ -37,10 +37,7 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left">3</td>
       <td style="text-align:left"><a href="week3_detail.md">Mon Feb 10</a>
       </td>
-      <td style="text-align:left">
-        <p>Guest: IDM Alum, Ife Lawal</p>
-        <p>Research and design</p>
-      </td>
+      <td style="text-align:left">Guest: IDM Alum, Ife Lawal / Research and design</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -59,10 +56,8 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left">4</td>
       <td style="text-align:left"><a href="week4_detail.md">Mon Feb 24</a>
       </td>
-      <td style="text-align:left">
-        <p>Guest: Kristofer G. Larsen, Assistant Director, Office of Global Awards</p>
-        <p>Research and design / Resources and Milestones</p>
-      </td>
+      <td style="text-align:left">Guest: Kristofer G. Larsen, Assistant Director, Office of Global Awards
+        / Research and design / Resources and Milestones</td>
     </tr>
     <tr>
       <td style="text-align:left">5</td>
