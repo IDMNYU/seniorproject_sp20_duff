@@ -11,6 +11,8 @@ _NYU Resources_
 
  _LinkedIn_
 
+* NYU IDM \(Job Postings\)
+  * [https://www.linkedin.com/groups/8684560/](https://www.linkedin.com/groups/8684560/)
 * LinkedIn Learning:
   * [Designing a Resumé for Creatives](https://www.linkedin.com/learning/designing-a-resume-for-creatives/welcome?u=2131553)
 * LinkedIn Help: 
