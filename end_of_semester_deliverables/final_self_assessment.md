@@ -40,6 +40,16 @@ As a student, you should also develop your critical thinking skills. This will i
 * What change\(s\) would you make to remote instruction for senior project and why?
 * What resources have you found to be specifically helpful to you for this course? And why?
 
+**Of IDM Showcase**
+
+**Please note I will copy and paste all of your responses in one document, while keeping your anonymity in tact, and forward to the IDM Showcase organizers.** 
+
+* There were some obvious communication issues regarding the submission dates and the 1-min video submission with the final submission form. Removing those two specific issues: 
+* What worked? What didn't work? Ideas? Suggestions for Improvement? for the:
+  * IDM showcase submission process
+  * IDM showcase virtual event
+  * IDM showcase website
+
 ![](../.gitbook/assets/experiential_learning_cycles_475.jpg)
 
 ![](../.gitbook/assets/experiential_learning_cycle_simple_476.jpg)
