@@ -30,7 +30,7 @@
     * 9 out of 16 completed. 
     * 7 students need to complete.
   * LinkedIn Training and Catt Small Advice under Career [Resources](../recommended_resources.md)
-  * Read: "End" chapter of Do The Work by Steven Pressfield \(6 min\). Post your [response](../assignments/responses.md) to your the slack channel.
+  * "End" chapter of Do The Work by Steven Pressfield \(6 min\). 
 * 10min Break
   * Complete [Course Evaluation](../assignments/course_evaluation.md) if you haven't done so. 
 * Class Critique:
