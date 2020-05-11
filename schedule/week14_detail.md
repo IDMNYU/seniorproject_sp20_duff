@@ -27,8 +27,8 @@
   * IDM students and faculty should be receiving a link to vimeo. Have you received it yet?
 * Discussion:
   * [Course Evaluation](../assignments/course_evaluation.md) Check-in 
-    * 9 out of 16 completed. 
-    * 7 students need to complete.
+    * 11 out of 16 completed. 
+    * 5 students need to complete.
   * LinkedIn Training and Catt Small Advice under Career [Resources](../recommended_resources.md)
   * "End" chapter of Do The Work by Steven Pressfield \(6 min\). 
 * 10min Break
