@@ -24,7 +24,7 @@
 **LAST DAY OF SPRING 2020 CLASSES**
 
 * Check-in
-* Tomorrow is the deadline to withdraw or take the Pass-Fail option. If you wish to do so, you should contact your advisor and the registrar.
+* Tomorrow is the deadline to withdraw or take the Pass-Fail option for classes. If you wish to do so for other classes, you should contact your advisor and the registrar. No one needs to do this for our class.
 * [Course Evaluation](../assignments/course_evaluation.md) Check-in
 * Class discussion:
   * Reading
