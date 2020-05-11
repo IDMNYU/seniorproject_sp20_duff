@@ -27,8 +27,9 @@
 * Tomorrow is the deadline to withdraw or take the Pass-Fail option for classes. Eric Maiello sent an email out today, outlining everything about the process for either. No one needs to do this for our class.
 * [Course Evaluation](../assignments/course_evaluation.md) Check-in
 * Class discussion:
-  * Reading: "End" chapter of Do The Work by Steven Pressfield \(6 min\)
   * LinkedIn Training and Catt Small Advice under Career [Resources](../recommended_resources.md)
+* Breakout Rooms:
+  * Reading: "End" chapter of Do The Work by Steven Pressfield \(6 min\)
 * Class Critique: 
   * \(OPTIONAL\) [Process pdf](../end_of_semester_deliverables/pdf_or_book.md) DRAFT
   * [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) of [Gold Version](../project_plan/project_versions.md) or Revision \(if applicable\)
