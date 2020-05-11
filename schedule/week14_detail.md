@@ -23,14 +23,16 @@
 
 * Check-in
 * Review Events on [Master Schedule](./)
+  * Invite people to the IDM showcase here: [https://www.eventbrite.com/e/idm-spring-showcase-idmshow-tickets-104801335616 ](https://www.eventbrite.com/e/idm-spring-showcase-idmshow-tickets-104801335616%20)
+  * IDM students and faculty should be receiving a link to vimeo. Have you received it yet?
 * Discussion:
   * [Course Evaluation](../assignments/course_evaluation.md) Check-in 
     * 9 out of 16 completed. 
     * 7 students need to complete.
   * LinkedIn Training and Catt Small Advice under Career [Resources](../recommended_resources.md)
-* 20min Break
-  * Complete [Course Evaluation](../assignments/course_evaluation.md) if you haven't done so. 
   * Read: "End" chapter of Do The Work by Steven Pressfield \(6 min\). Post your [response](../assignments/responses.md) to your the slack channel.
+* 10min Break
+  * Complete [Course Evaluation](../assignments/course_evaluation.md) if you haven't done so. 
 * Class Critique:
   * \(OPTIONAL\) [Process pdf](../end_of_semester_deliverables/pdf_or_book.md) DRAFT
   * [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) of [Gold Version](../project_plan/project_versions.md) or Revision \(if applicable\)
