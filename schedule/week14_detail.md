@@ -25,7 +25,7 @@
 * Announcements:
   * **LAST DAY OF SPRING 2020 CLASSES**
     * Tomorrow is the deadline to withdraw or take the Pass-Fail option for classes. Eric Maiello sent an email out today, outlining everything about the process for either. No one needs to do this for our class.
-    * Wednesday, May 20, at 1 pm, NYU Tandon School of Engineering’s Virtual Commencement Celebration
+    * Wednesday, May 20, at 1 pm, NYU Tandon School of Engineering’s Virtual Commencement Celebration. You should have received an email from Jelena Kovačević.
     * [Course Evaluation](../assignments/course_evaluation.md) Check-in 
       * 9 out of 16 completed. 
       * 7 students need to complete.
