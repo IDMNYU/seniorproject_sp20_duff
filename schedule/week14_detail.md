@@ -21,21 +21,15 @@
 
 ## Class
 
+**LAST DAY OF SPRING 2020 CLASSES**
+
 * Check-in
-* Announcements:
-  * **LAST DAY OF SPRING 2020 CLASSES**
-    * Tomorrow is the deadline to withdraw or take the Pass-Fail option for classes. Eric Maiello sent an email out today, outlining everything about the process for either. No one needs to do this for our class.
-    * Wednesday, May 20, at 1 pm, NYU Tandon School of Engineering’s Virtual Commencement Celebration. You should have received an email from Jelena Kovačević.
-    * [Course Evaluation](../assignments/course_evaluation.md) Check-in 
-      * 9 out of 16 completed. 
-      * 7 students need to complete.
-* Discussion:
+* [Course Evaluation](../assignments/course_evaluation.md) Check-in
+* Class discussion:
+  * Reading
   * LinkedIn Training and Catt Small Advice under Career [Resources](../recommended_resources.md)
-* 20min Break
-  * Complete [Course Evaluation](../assignments/course_evaluation.md) if you haven't done so. 
-  * Read: "End" chapter of Do The Work by Steven Pressfield \(6 min\). Post your [response](../assignments/responses.md) to your the slack channel.
-* Class Critique:
-* \(OPTIONAL\) [Process pdf](../end_of_semester_deliverables/pdf_or_book.md) DRAFT
-* [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) of [Gold Version](../project_plan/project_versions.md) or Revision \(if applicable\)
+* Class Critique: 
+  * \(OPTIONAL\) [Process pdf](../end_of_semester_deliverables/pdf_or_book.md) DRAFT
+  * [Project Demo](../critiques-demos-presentations-and-exhibition/project_demo.md) of [Gold Version](../project_plan/project_versions.md) or Revision \(if applicable\)
 * Check-out
 
