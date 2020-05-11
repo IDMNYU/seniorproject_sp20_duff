@@ -189,7 +189,7 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left">
         <p><b>IDM Student Showcase<br />Course Evaluations DUE</b>
         </p>
-        <p><b>NYU Reading Day / Also new withdrawal date </b>
+        <p><b>NYU Reading Day<br />New NYU Withdrawal Date </b>
         </p>
         <p><b>Last Day to take the Pass/Fail option. No one needs to do this in our class.</b>
         </p>
