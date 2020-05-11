@@ -21,8 +21,6 @@
 
 ## Class
 
-\*\*\*\*
-
 * Check-in
 * Announcements:
   * **LAST DAY OF SPRING 2020 CLASSES**
