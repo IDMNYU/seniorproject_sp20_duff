@@ -189,9 +189,7 @@ _Illustration by Jolby from gettoworkbook_
       <td style="text-align:left">
         <p><b>IDM Student Showcase<br />Course Evaluations DUE</b>
         </p>
-        <p><b>NYU Reading Day<br />New NYU Withdrawal Date </b>
-        </p>
-        <p><b>Last Day to take the Pass/Fail option. No one needs to do this in our class.</b>
+        <p><b>NYU Reading Day / Also new withdrawal date</b>
         </p>
       </td>
     </tr>
@@ -209,12 +207,7 @@ _Illustration by Jolby from gettoworkbook_
             message as pdf to deangela on slack BEFORE your meeting).</li>
           <li><a href="../end_of_semester_deliverables/">End of Semester Deliverables</a> DUE</li>
         </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Wed May 20</td>
-      <td style="text-align:left"><b>NYU Tandon Virtual Commencement</b>
+        <p>&lt;b&gt;&lt;/b&gt;</p>
       </td>
     </tr>
   </tbody>
