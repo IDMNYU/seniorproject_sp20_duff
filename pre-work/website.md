@@ -1,6 +1,6 @@
 # Process Website
 
-> “Instead of trying to build a brick wall, lay a brick every day. Eventually you’ll look up and you’ll have a brick wall.” Nipsey Hussle
+> “Instead of trying to build a brick wall, lay a brick every day. Eventually you’ll look up and you’ll have a brick wall.” ~Nipsey Hussle
 
 Please add your name and the URL of your process website to this [shared google doc](https://docs.google.com/document/d/1tCl_rZb0OH85Z7vJsOvBm2n4mHT7xS9MQHRWxix_l6M/edit?usp=sharing).
 
