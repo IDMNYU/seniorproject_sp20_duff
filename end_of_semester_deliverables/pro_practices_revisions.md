@@ -26,9 +26,10 @@ Export the following as pdfs and upload to your project documentation folder for
 
 * **Resumé** \(which should contain the URL to your portfolio website\)
   * LinkedIn Learning: [Designing a Resumé for Creatives](https://www.linkedin.com/learning/designing-a-resume-for-creatives/welcome?u=2131553)
+  * [https://www.casestudy.club/journal/ux-designer-res](https://www.casestudy.club/journal/ux-designer-resume)
 * **Cover Letter** to a position or opportunity you have already applied for or would like to apply for.
   * [https://m.signalvnoise.com/looking-for-a-new-job-dont-be-boring/](https://m.signalvnoise.com/looking-for-a-new-job-dont-be-boring/)
-  * [https://m.signalvnoise.com/what-we-learned-while-hiring-the-basecamp-summer-internship-class/](https://m.signalvnoise.com/what-we-learned-while-hiring-the-basecamp-summer-internship-class/) \(You don't have to read the entire article. You can search for the following header: Tips for prospective interns\)
+  * [https://m.signalvnoise.com/what-we-learned-while-hiring-the-basecamp-summer-internship-class/](https://m.signalvnoise.com/what-we-learned-while-hiring-the-basecamp-summer-internship-class/) \(You don't have to read the entire article. You can search for the following header: Tips for prospective interns, but it also applies to job searching, too.\)
   * [https://signalvnoise.com/posts/1748-forget-the-resume-kill-on-the-cover-letter?41\#comments](https://signalvnoise.com/posts/1748-forget-the-resume-kill-on-the-cover-letter?41#comments) \(Reading all of the comments is just as important as reading the very short article.\)
 
 ## Professional Practices Resources

@@ -11,8 +11,6 @@ _NYU Resources_
 
  _LinkedIn_
 
-* NYU IDM \(Job Postings\)
-  * [https://www.linkedin.com/groups/8684560/](https://www.linkedin.com/groups/8684560/)
 * LinkedIn Learning:
   * [Designing a Resumé for Creatives](https://www.linkedin.com/learning/designing-a-resume-for-creatives/welcome?u=2131553)
 * LinkedIn Help: 
@@ -80,16 +78,6 @@ _Job Boards_
 * [Indiegogo](http://www.indiegogo.com)
 * [PledgeMusic](http://pledgemusic.com)
 * [GoFundMe](http://gofundme.com)
-
-_Resumés_
-
-* [https://www.casestudy.club/journal/ux-designer-resume](https://www.casestudy.club/journal/ux-designer-resume)
-
-_Cover Letters_
-
-* [https://m.signalvnoise.com/looking-for-a-new-job-dont-be-boring/](https://m.signalvnoise.com/looking-for-a-new-job-dont-be-boring/)
-* [https://m.signalvnoise.com/what-we-learned-while-hiring-the-basecamp-summer-internship-class/](https://m.signalvnoise.com/what-we-learned-while-hiring-the-basecamp-summer-internship-class/) \(You don't have to read the entire article. You can search for the following header: Tips for prospective interns, but the tips are important for job searching, too.\)
-* [https://signalvnoise.com/posts/1748-forget-the-resume-kill-on-the-cover-letter?41\#comments](https://signalvnoise.com/posts/1748-forget-the-resume-kill-on-the-cover-letter?41#comments) \(Reading all of the comments is just as important as reading the very short article.\)
 
 ## Recommended Audio Podcasts
 
