@@ -9,18 +9,20 @@ _NYU Resources_
 * [Wasserman Center](https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html)
 * [Leslie Elab](http://entrepreneur.nyu.edu/)
 
- _LinkedIn_
+_Catt Small_
 
+* \*\*\*\*[**Impress for success: Strategic ways to seem more hireable**](https://cattsmall.com/advice/2018/09/24/be-hireable-get-hired.html)\*\*\*\*
+* \*\*\*\*[**12 tips for getting into a new career**](https://cattsmall.com/advice/2019/11/02/get-entry-level-job-new-career.html)\*\*\*\*
+
+_LinkedIn_
+
+* NYU IDM \(Job Postings\)
+  * [https://www.linkedin.com/groups/8684560/](https://www.linkedin.com/groups/8684560/)
 * LinkedIn Learning:
   * [Designing a Resumé for Creatives](https://www.linkedin.com/learning/designing-a-resume-for-creatives/welcome?u=2131553)
 * LinkedIn Help: 
   * [Let Recruiters Know You’re Open to Job Opportunities \| LinkedIn Help](https://www.linkedin.com/help/linkedin/answer/67405?lang=en&src=aff-lilpar&veh=aff_src.aff-lilpar_c.partners_pkw.123201_plc.adgoal%20GmbH_pcrid.449670_learning&trk=aff_src.aff-lilpar_c.partners_pkw.123201_plc.adgoal%20GmbH_pcrid.449670_learning&clickid=XVGx8mzlPxyOUGjwUx0Mo38SUki2%3A00lwW9ZVM0&irgwc=1)
   * [Find Jobs on LinkedIn – Best Practices \| LinkedIn Help](https://www.linkedin.com/help/linkedin/answer/110912)
-
-_Catt Small_
-
-* \*\*\*\*[**Impress for success: Strategic ways to seem more hireable**](https://cattsmall.com/advice/2018/09/24/be-hireable-get-hired.html)\*\*\*\*
-* \*\*\*\*[**12 tips for getting into a new career**](https://cattsmall.com/advice/2019/11/02/get-entry-level-job-new-career.html)\*\*\*\*
 
 _Job Boards_
 
@@ -34,7 +36,21 @@ _Job Boards_
 * [Coroflot](http://www.coroflot.com/public/jobs_browse.asp)
 * [Creative Hotlist](http://www.creativehotlist.com)
 
- _Miscellaneous_
+ _Cover Letters_
+
+* [https://m.signalvnoise.com/looking-for-a-new-job-dont-be-boring/](https://m.signalvnoise.com/looking-for-a-new-job-dont-be-boring/)
+* [https://m.signalvnoise.com/what-we-learned-while-hiring-the-basecamp-summer-internship-class/](https://m.signalvnoise.com/what-we-learned-while-hiring-the-basecamp-summer-internship-class/) \(You don't have to read the entire article. You can search for the following header: Tips for prospective interns, but the tips are important for job searching, too.\)
+* [https://signalvnoise.com/posts/1748-forget-the-resume-kill-on-the-cover-letter?41\#comments](https://signalvnoise.com/posts/1748-forget-the-resume-kill-on-the-cover-letter?41#comments) \(Reading all of the comments is just as important as reading the very short article.\)
+
+_Resumé Examples_
+
+* [https://www.casestudy.club/journal/ux-designer-re](https://www.casestudy.club/journal/ux-designer-resume)[sume](https://www.casestudy.club/journal/ux-designer-resume)
+
+_Portfolio Examples_
+
+* [https://www.glorialo.design](https://www.glorialo.design/)
+
+_Miscellaneous_
 
 * [AIGA Professional Resources](http://www.aiga.org/professional-resources)
 * [Pew Research](http://www.pewresearch.org/)
@@ -78,6 +94,8 @@ _Job Boards_
 * [Indiegogo](http://www.indiegogo.com)
 * [PledgeMusic](http://pledgemusic.com)
 * [GoFundMe](http://gofundme.com)
+
+\_\_
 
 ## Recommended Audio Podcasts
 
