@@ -24,8 +24,6 @@ You can make the blurb books fullscreen by clicking the expansion arrow above th
 * No need to do: If pdf, **post on slack** for everyone to see and download in the class
 * Not applicable this semester: If physical book, post the link to the preview on blurb on slack AND bring the actual book. Make sure the book is public and that you can preview the entire book. If you can't figure out how to preview it on blurb, upload a pdf of the book to the senior project channel on slack.
 
-This should be compiled using **Adobe InDesign**.
-
 PDF Cover:
 
 * Your first and last name \(if team, both names\)
